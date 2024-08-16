@@ -1,0 +1,1001 @@
+entity_id,entity_name,entity_type,risk_category,listed_date,source
+dc112001-714a-4d92-a2d1-2ccb949276df,Andrea Mays,Individual,Low,2022-12-11,EU
+e1035993-aabe-4d1c-a982-0e7cf4123c8b,Christopher Hall,Organization,Low,2024-03-04,UN
+56626775-2665-47f4-9c29-d4c7fd9734f8,Williams Ltd,Individual,Medium,2020-10-23,OFAC
+608bf89c-a5d8-4e86-a196-8a2200a515c4,Brittany Martin,Individual,Low,2020-05-27,EU
+e08fb213-469e-4048-a5d3-46749367ddf3,Chad Mills,Individual,High,2022-10-07,EU
+39e42e4a-d6fd-45ca-a375-36d940044c85,Rachel Sullivan,Organization,High,2024-07-19,EU
+ebc898f4-f44d-499c-a134-10f9d7ed6a4e,Danielle Lewis,Individual,Medium,2022-04-05,UN
+9ab6b5b6-1306-464b-9d67-991d9e9e2e78,Owen-Fox,Individual,Low,2020-07-15,OFAC
+c74f14c7-ed6a-49ba-af13-e99d37ac70f2,Kelly Pearson,Individual,High,2024-05-31,OFAC
+85101635-ee01-4945-83e8-33debad9b652,Brown LLC,Individual,Low,2021-01-05,OFAC
+5d73e18f-1290-4a54-a9d7-d8afe5a9d58e,"Mckinney, Snow and Mccoy",Organization,Low,2022-11-21,Local Authorities
+b7432de9-f3f7-4536-9d0f-e5aefb48905e,Castro and Sons,Organization,Low,2024-05-03,OFAC
+dfbb2cb8-0ccb-4c37-b2a0-46ddd07a652d,Lewis and Sons,Individual,Medium,2021-06-15,UN
+babea9b4-4caa-4d3c-8c31-eda51fefda16,Brandy Wolf,Individual,Medium,2020-01-07,EU
+ae0aba49-ec20-4668-8956-7764971075e6,Aguilar LLC,Individual,Medium,2022-02-10,OFAC
+d45f7cef-e195-4661-a064-33e5ebe61ac1,Wright-Pugh,Organization,Low,2022-05-19,EU
+e236a5c5-d121-4aa2-a666-7603d5383a41,Fernandez and Sons,Organization,High,2023-04-06,Local Authorities
+575c33da-4df6-47e4-9a93-99e754b6f915,Gary Romero,Organization,High,2022-10-12,OFAC
+76a6d4b4-2d7c-4463-aba8-5761faeff42f,"Sanders, Riggs and Perry",Organization,Low,2022-11-24,EU
+76d0f0ce-1634-4aab-bbca-79aee8b73859,Norman Ruiz,Organization,High,2021-06-07,Local Authorities
+41cee048-9ffa-4c78-9671-72d7d6ccf6b6,Stephanie Daniels,Organization,High,2022-09-05,OFAC
+075a5c45-2d90-4231-89e3-1c890c92c941,Mary Hernandez,Individual,Low,2021-12-12,UN
+71a3a373-4dd3-4ef1-8118-3b807b6dc1cd,Haynes PLC,Organization,Medium,2023-05-08,Local Authorities
+f793d57b-3ea7-4772-95f4-380f5eba9e69,Marie Perez,Individual,Low,2021-10-06,UN
+62d2d9dd-d216-4878-9da7-fa2c840d5377,"Bautista, Hunt and Mathews",Organization,Medium,2024-04-29,Local Authorities
+be67a3e5-60b1-4a4c-a1a6-b8c94aee49e1,Adams-Garcia,Organization,Medium,2022-11-21,UN
+8af74f9d-c6f8-47c3-8f46-a11bbcf2d7ac,Bradley Smith,Organization,Low,2021-05-18,UN
+9b0b1f86-6d4f-4b35-80e3-65b5d463829b,Smith-Kidd,Organization,Medium,2022-11-19,OFAC
+d96ce87e-4b0c-4311-b510-f0cf1aacab38,Arnold Inc,Organization,Medium,2022-06-14,UN
+96425496-b4ec-4883-8b0a-94265ef71240,Rebecca Hughes,Organization,High,2021-01-10,Local Authorities
+879fa796-5049-462e-ac4d-ef8f8a3df2a1,Kyle Leblanc,Organization,High,2020-07-25,UN
+89953054-edb3-451a-887a-2c4187d26e0f,Vickie Carter,Organization,Medium,2024-02-09,UN
+de523cd6-9d86-4be0-b0b8-a0a39a906ad1,Gilbert Jordan,Individual,High,2023-04-13,UN
+219eba9f-63d1-4ca7-988a-a188a846bda8,Jon Parker,Individual,High,2021-12-21,UN
+dc570088-c8ab-45ab-abb8-83be10edf313,Linda Arias,Individual,Medium,2020-09-17,UN
+a7a15ad2-023e-4e0f-a4a9-393af8f4f77e,Debra Marshall,Individual,Medium,2022-07-06,EU
+dcd2984b-2c89-4d86-8126-de8f35da4022,Martinez-Becker,Individual,High,2021-01-09,UN
+d4c51723-e6b8-4f75-a990-6d17f4d72b81,Johnson and Sons,Organization,Medium,2024-02-07,UN
+d63afefd-1561-4ed3-8c22-8503a9fba57b,Angela Thompson,Organization,High,2021-07-25,Local Authorities
+57a895d2-f5cd-4619-b9f5-89deff9d2069,Ashley Harvey,Organization,Medium,2023-08-27,Local Authorities
+6859538f-c269-4e96-b4a1-1fbb25540ac9,Lauren Clark,Individual,Medium,2022-01-27,OFAC
+b3361923-5c24-47b1-aa54-b1e863821413,"Rangel, Dillon and Scott",Individual,Medium,2020-10-29,UN
+2cf5cfc5-f46e-4334-97ae-e297e8ea745a,Gonzalez Ltd,Organization,Low,2020-07-20,EU
+f7a9e7e9-d934-4ad3-80fe-5905699b7b50,Glenn Rubio,Individual,High,2020-05-03,UN
+89309337-3a1d-45b6-a300-aa467b29e1f0,"Jackson, Welch and Jacobs",Individual,Medium,2023-01-28,Local Authorities
+08a317cb-3392-43e0-a623-b059ade46e50,Debra Delgado,Individual,Medium,2023-04-26,OFAC
+65756d33-1154-4350-9ea8-b564fd3517ec,Rachel Stevenson,Individual,Low,2021-12-16,Local Authorities
+b0bc9712-4f83-4415-a641-60c4c5556c3c,Jamie Cook,Individual,Medium,2021-10-25,OFAC
+2ebbdbb8-7bcc-4eaf-9982-517e5f259ff3,Brown Inc,Individual,Medium,2020-05-24,EU
+9065bedd-d8e1-41d2-89b7-64d86a060522,William Green,Organization,High,2020-10-18,EU
+10eb5c46-87df-4c7d-8e24-76a8c1d5a9ab,Todd Rodriguez,Organization,High,2024-03-02,Local Authorities
+d8a519dc-ee33-46ab-9d68-16f409981938,Donna Porter,Individual,Low,2023-09-21,OFAC
+3bce807d-1e33-40f4-aa3d-c1891f04e3e0,"Edwards, Smith and Fitzpatrick",Organization,Low,2020-08-28,Local Authorities
+687e3170-dac8-43bc-8497-9955e28887a4,Wright Group,Organization,Medium,2021-03-05,Local Authorities
+dce888f2-b755-4a15-8b25-5e68cfd25190,Martinez PLC,Organization,Low,2021-01-23,UN
+70e5680d-49d6-4df2-bec3-b514c73a8d47,Darrell Gray,Individual,Low,2021-06-05,EU
+622b5eea-c229-4819-b267-f658d5a6b9df,Todd Alvarado,Organization,Medium,2024-04-25,UN
+1248cdb1-423d-4256-8cac-f629ba72dd6a,Banks PLC,Organization,Medium,2024-06-26,UN
+96992df2-d8a4-4912-9419-7b6b0e58de96,Rodriguez LLC,Organization,Low,2021-09-29,OFAC
+5cdcffe8-fe18-40a3-8adc-ae687181931a,Palmer-Grant,Individual,High,2020-03-26,Local Authorities
+5227812b-593e-4c34-bc52-d6405b05dfd4,Jeremy Herrera,Organization,High,2020-04-25,UN
+989d1639-50be-422f-8228-6c139a9f8c0d,Wu-Richardson,Individual,Low,2020-04-08,OFAC
+4dd55e08-c8ca-43e3-8c9c-d39fc2590ff9,"Silva, Smith and Cox",Individual,Medium,2023-07-22,OFAC
+1235806d-9876-494a-b47a-865cfc4021f5,Heather Faulkner,Individual,Low,2021-02-13,UN
+be68b601-699e-4ba3-9326-f00cceab5a17,"House, Scott and Sandoval",Organization,High,2020-10-24,EU
+6d4a7ebe-1581-43c4-a580-82e805bef673,"Jackson, Mckinney and Gaines",Organization,High,2022-11-01,Local Authorities
+10d4473c-f139-4691-8d9a-b5676a02823d,Haynes PLC,Individual,Medium,2024-05-28,OFAC
+3a0a2605-c839-43dc-bd87-d402d95382a3,Alison Foster,Organization,Medium,2023-02-09,EU
+9a579975-889c-4ccd-aa29-a96e2653689b,Russell-Thompson,Organization,Medium,2020-06-15,OFAC
+06eb12dc-5041-49bf-aac7-e4f5ff3caeb1,"Miller, Drake and Perkins",Individual,Low,2020-02-18,EU
+f7d3933b-c4e2-4533-af49-507fb27508cc,Philip Avila,Individual,Medium,2023-12-24,Local Authorities
+68a981a7-8860-4ee0-a08f-5a6d52702a90,Hall Group,Individual,High,2020-04-06,EU
+15491430-b991-4f66-ad6a-ecebae215cfd,Fernando Taylor,Organization,High,2021-01-14,UN
+fb703e26-ac3f-44b2-8cd1-5231a3b0831c,Johnson and Sons,Organization,High,2023-06-06,OFAC
+e0604bf6-ed71-4ca6-9604-3e719dea0e52,Johnson-Lin,Organization,Medium,2020-09-07,Local Authorities
+5f423cb7-6dd6-4b9c-90b5-279331815b21,Avery-Burch,Individual,Medium,2020-02-05,OFAC
+5a0c4810-d1cd-4290-95de-d7151c358ed2,Garcia PLC,Individual,High,2023-12-16,Local Authorities
+ea330105-b6e4-4280-a908-c61e58ba32db,Wilkinson LLC,Individual,Medium,2021-09-26,OFAC
+2c1f486d-85db-40ae-b06c-1f611182530a,John Oliver,Individual,High,2022-08-21,EU
+19de8850-9249-454c-bbd5-6136b3ae8b63,"Nelson, Livingston and Callahan",Individual,High,2022-08-18,UN
+60ba5677-f010-453f-8254-ff96f45572e5,Anita Butler,Organization,Low,2024-04-22,UN
+8a8dc464-a2c1-4fb9-8d17-f9271587ca97,Wise-Mccormick,Organization,Low,2020-03-01,UN
+82ca8796-2451-4cba-a036-c2cf2a9779e2,Ashley Martinez,Organization,Medium,2020-01-31,OFAC
+782e54b7-bf03-4d34-a035-311e359ffcac,Danielle Hall,Individual,Low,2022-04-16,OFAC
+ff47a2c3-0fb3-4ad7-89be-d8475605923a,Megan Koch,Organization,Medium,2023-08-31,UN
+af99aa22-f987-429e-b66d-8fb96f799f50,Patrick Phillips,Individual,Low,2022-12-22,OFAC
+e1a0ca00-7475-4aed-a093-97b05d6fc08d,Andrews-Berg,Individual,Medium,2023-05-07,EU
+972e6ccd-cb17-481f-9e36-402b243ad75f,Katrina Parker,Individual,Low,2020-11-29,UN
+c807229c-3610-421d-bcc3-45a15b5a67ae,Nunez Group,Organization,Medium,2021-01-03,Local Authorities
+b7eb5009-f9c9-4309-825e-137b6675be20,Sherry Sosa,Individual,Low,2023-12-30,OFAC
+aba6b2bf-3992-439f-b477-1587f509b4eb,Chaney Group,Organization,Low,2023-05-01,EU
+f3f03802-7676-4ad9-82e3-f3bc53f1abb6,Dawn Walker,Organization,High,2020-05-06,Local Authorities
+d5f07a5e-909d-42be-91d1-4633ecea2929,Alicia Daugherty,Individual,High,2023-12-19,OFAC
+42560169-d438-4377-ad75-56bb56bd52fc,Jane Lewis,Organization,High,2021-04-21,Local Authorities
+4ef1287c-8cb7-4e74-ab67-fb252e37e584,Cain Group,Organization,Low,2022-01-13,UN
+ccbe1e52-60bc-44f3-a1da-be991af9eb62,Molly Nelson,Individual,Medium,2022-01-10,UN
+8a9bae50-185a-44ee-9eed-e828f91b7aae,Jill Fowler,Organization,Low,2024-02-23,OFAC
+afe55787-5837-438f-ae7b-b1aef16c8e05,Pitts and Sons,Individual,Low,2020-08-07,Local Authorities
+6547a682-6d04-4dac-a92c-eeb8915d2821,Gabriel Stone,Individual,Low,2022-06-01,OFAC
+be9d28a7-c7d4-4e86-986b-42c0ea844d21,Seth Smith,Organization,Medium,2023-10-18,OFAC
+61a29120-2e41-4504-a237-9e5776cf05cc,Young-Perry,Individual,Medium,2021-02-03,EU
+1097ab40-c93f-4eff-b806-a61aab5f5484,Stephanie Palmer,Organization,High,2022-08-07,Local Authorities
+ed13d7d8-cc6a-406f-b4a0-2190a167f667,Molly Ruiz,Individual,High,2021-05-06,OFAC
+b6edb9c4-1dff-4373-8a43-1483285c76a4,Brandon Cunningham,Individual,High,2021-05-05,UN
+0422771b-1e56-4b88-bb4b-66bb777b7563,Berry-Dominguez,Organization,Low,2024-07-10,UN
+434d5384-64e4-4440-812a-63151b7a4778,Matthew Washington,Organization,Medium,2022-02-15,Local Authorities
+26b931e3-8f65-41e2-8f45-c6371d2170e6,"Thomas, Hendrix and Castillo",Individual,Medium,2024-07-18,EU
+a1417841-f277-4f0d-855a-78ca3e619eeb,Brenda Ellis,Individual,Low,2021-10-17,Local Authorities
+81a8c6f7-edec-4278-8d34-1ea209cc0109,Maria Johnson,Individual,Low,2020-10-22,EU
+480eeaa2-8962-43ff-8717-8d601d2e04fa,Dawn Armstrong,Organization,High,2020-12-16,EU
+f0bfb1f9-7dda-4a41-bb81-c2ff089d6079,Jeremy Diaz,Individual,Low,2021-10-10,UN
+10c92404-c19c-45a9-9172-f00cb7927590,Johnson PLC,Individual,High,2021-06-05,Local Authorities
+08371f89-ca65-4cf3-a3d2-e2b443590ae4,Amy Roberts,Individual,High,2024-05-17,EU
+0449bf2c-5082-4e3a-83f3-d5b1cec2c366,"Dean, Williams and Heath",Organization,High,2022-12-21,Local Authorities
+a22c01b7-497f-4fbc-b253-9e789a6b630f,Lopez Group,Organization,High,2022-12-12,EU
+c0cf884d-f4c5-492b-b70a-dfd86b174194,"Fuller, Dawson and Phillips",Organization,Low,2023-12-12,OFAC
+f5410482-4320-44d7-868d-ad8737b73d1d,Nicole Campbell,Organization,High,2021-10-10,EU
+6c2f1f70-bbe1-4986-9a59-e3bcf95317a8,Debbie Fritz,Organization,Low,2022-05-29,UN
+d7c2325d-7b60-418f-9f6f-28f740ea08a1,"Forbes, Daniel and Hogan",Organization,Low,2024-03-23,UN
+280e97c9-9905-479e-a3fe-a451f4ab35b7,"Miranda, Fernandez and Lutz",Organization,High,2021-04-27,UN
+07f16e77-3d6d-44d8-b401-69a768ee7594,Lisa Rodriguez,Organization,High,2023-02-07,Local Authorities
+02bc0c88-ebde-4281-a70e-165afa35a0a8,Bryan-Wright,Organization,Medium,2020-09-24,EU
+b31e4283-5295-43f9-ad4c-4b6b1edc96c1,Christian Reed,Organization,Low,2023-11-25,UN
+b5a06274-2ff0-4371-b9a3-12be51c1a4fb,"Vance, Boyle and Vega",Individual,Low,2024-08-04,EU
+311b0ec6-4942-499e-9854-da7cddfb4e61,Bender LLC,Individual,Low,2024-04-01,EU
+2079958b-4963-4856-a8c2-0705b3cd3ec9,"Robinson, Ware and Cook",Individual,Medium,2022-05-27,OFAC
+b99f5120-d065-47dc-87aa-746106b31ec1,Joseph Woodard,Individual,High,2020-05-30,EU
+3e566ff5-a828-4edc-8028-f42abac6244c,Joseph Houston,Individual,Medium,2024-04-19,OFAC
+7832efcf-0c62-432a-b46a-7e2872d76f70,Nicholas Boone,Organization,Medium,2022-05-18,EU
+1576df4c-76d1-42e4-93f4-1effdf37be68,Werner-Brown,Individual,Medium,2020-11-21,Local Authorities
+44550605-aef5-4706-9551-c05bdf36085a,Stephanie Mckinney,Individual,High,2021-09-02,OFAC
+290b4cf9-1196-47a2-b80b-10e92f2f0b2c,Rogers-Thompson,Individual,High,2020-01-28,OFAC
+1103cdb9-4873-4897-aafc-ce152a3eac6e,Costa-Anthony,Organization,Medium,2022-08-30,UN
+0479fea8-3ede-4cef-b118-4f0567a8c318,Ashley Miller,Organization,Low,2022-01-06,EU
+c9058fb3-8a51-4437-bed5-8d9ca50345c1,"Meza, Mullins and Bennett",Organization,Medium,2024-06-11,OFAC
+d326d4db-b105-4197-a9a8-d93b360e2bdf,Jacob Thomas,Individual,High,2022-08-06,EU
+40d0533c-6bb9-4d30-afce-5cb677b0a737,Russell-Hughes,Individual,Medium,2022-04-05,UN
+692a16d5-9896-4024-afa9-71f11ba7031d,Timothy Ortega,Individual,Low,2021-04-04,EU
+8aedb7df-5665-4729-886e-28c61c774307,Joseph Jones,Organization,Medium,2024-01-03,OFAC
+b56e6f11-b1da-4fda-a118-f983f5ad81f1,Jesus Baker,Individual,High,2021-02-09,OFAC
+399e64d6-672f-4c03-b2e2-71fb332d4f84,Arthur Anderson,Organization,High,2020-11-22,Local Authorities
+477d288f-da4d-4aff-8fda-b60955bd7bb1,Dan Hughes,Organization,Low,2020-02-06,Local Authorities
+911b4121-44f2-4e98-a6aa-4f4ac2928a0f,Daniel Fields,Individual,Medium,2022-02-12,UN
+99708e7c-1ace-428f-9132-b84c794fb08d,Jesus Houston,Organization,Low,2020-04-22,OFAC
+b22e7769-9d07-42a2-8e06-93796b08c040,Moody Group,Organization,Low,2022-04-11,Local Authorities
+ef9ca94e-8fd6-41ed-98f5-851700638d4a,Garcia Ltd,Organization,High,2021-03-25,OFAC
+f88b1560-f7c1-48fb-adfa-ece19ec48a7c,Kenneth Gutierrez,Individual,Medium,2020-01-28,UN
+1f400de2-e8c5-45b0-9c98-43f80129e165,Maldonado Ltd,Individual,Medium,2021-04-07,UN
+a70e3f75-97ae-4537-87f9-6edafdd989c0,Cynthia Gomez,Individual,Medium,2023-06-02,OFAC
+404161ae-1332-4ee1-97b3-855448902714,"Edwards, Cruz and Reeves",Organization,Medium,2023-01-02,EU
+930dda50-c999-46a7-ad28-960db7d6dc66,Pena LLC,Organization,Low,2023-06-16,Local Authorities
+3c819f75-b624-41b5-bbcd-31a3918ec541,Wood PLC,Organization,High,2023-09-03,Local Authorities
+5f49c90d-38f5-429f-a3c4-ae94b3119a15,Ashley Hunt,Individual,Low,2021-07-15,UN
+b904de1d-1fbe-4642-9bbc-64b803a2d438,Elizabeth Little,Individual,High,2020-09-01,EU
+569f93cc-2c0f-4331-ad4c-e4e2d07cc732,Cynthia Clark,Organization,High,2022-09-13,UN
+49dee52b-d95a-4156-99d4-fc4ab631d0a6,Teresa Johnson,Organization,High,2021-03-24,OFAC
+90feca9e-c5b6-438b-8da4-feb470eb6a68,Gordon-Kim,Organization,Low,2022-05-13,Local Authorities
+0018b1f7-f8f1-4d17-9a70-c4540ba15fdf,Peter Cruz,Organization,High,2023-11-21,EU
+bfc50f84-7f3a-4dd3-bd30-ba8e56e343e6,Floyd-Gill,Individual,High,2020-04-08,OFAC
+b4635d26-252f-4ff5-a548-e225ba7e3a66,Jose Brown,Individual,Low,2024-04-16,OFAC
+7d00ac46-ad32-4e16-ae82-d0b1bc3fb593,Nelson LLC,Organization,Medium,2020-10-22,EU
+ed3278a5-be86-43c3-a560-e785740b1d44,Robert Gomez,Organization,High,2023-06-05,OFAC
+0a4e4343-6f88-466b-b3a6-474422db602b,Miller-Wagner,Organization,Low,2023-12-17,UN
+415810c5-57d7-4e38-893b-616adfde50f8,Hansen-Hancock,Individual,High,2023-01-16,OFAC
+a4e6d92e-2ab8-4af9-8edc-6f9b10add5b8,"Williams, Brewer and Thomas",Organization,High,2020-11-25,UN
+26e5ea94-6924-4774-b65c-04e886c8592c,Scott Wright,Individual,Medium,2023-07-14,OFAC
+77ceb0b5-233b-409a-bd34-32738084caf3,"Griffin, Khan and Cervantes",Organization,Low,2022-07-05,EU
+fb4c62d9-13a6-470b-980e-849cf76742f2,"Edwards, Robinson and Anderson",Organization,High,2021-12-14,UN
+6645f054-2388-4283-9ff3-39115f41b882,Michael Harris,Individual,Medium,2024-05-13,OFAC
+45e5b785-9822-42e2-a8da-8095654da422,Obrien-Miller,Organization,Medium,2020-06-29,UN
+67090f6e-d238-4322-940d-142fafd556c5,Courtney Cummings,Individual,High,2023-09-29,OFAC
+97f90d1a-13c0-4605-ba7f-1242cdbecffc,John Robles,Organization,Medium,2022-03-29,EU
+f53d2f03-0922-417a-a931-bce1db4f3cf9,"Finley, Payne and Wise",Organization,Low,2022-09-25,UN
+85621e15-ef9f-4684-9ae2-cea344575a19,Brown-Delgado,Organization,High,2023-05-01,OFAC
+e5b7783c-3d3b-41f5-92f6-5d5754d85731,Green-Spencer,Individual,Medium,2023-08-21,UN
+25841698-d574-4908-8c0d-00427d892ea1,Rebecca Deleon,Organization,High,2020-09-02,UN
+0cd33331-dea5-4156-a7c7-f6d271e9f2dd,Ingram-Morales,Individual,Medium,2024-03-24,EU
+3cb13cc8-6df2-4bfb-9f4f-4dac1b8cb56b,Michael Riggs,Organization,Medium,2023-07-15,UN
+731b00eb-71ad-402c-923e-ceae4224ae4c,David Jones,Organization,Low,2023-08-11,UN
+3734fc9a-8f75-45ac-8bae-8d2cea340a46,Harding-Noble,Organization,Medium,2020-06-12,UN
+d17ecf83-688a-479c-b116-1ec3d20df64b,Jack Wilson,Organization,Low,2021-02-11,EU
+8b90864f-b817-4dde-836a-d5d9c0b200f1,Roberto Sherman,Individual,High,2023-10-17,EU
+2f71e928-9ba0-41b7-876b-38de1f03f2ba,"Hughes, Williams and Smith",Organization,High,2020-06-06,EU
+263a9811-f1c9-41b7-9a45-3ac07e5eefba,Pierce-Anderson,Organization,High,2021-10-24,OFAC
+5ca8f313-edac-4ca4-80f9-2a4440ac874e,Jennifer Neal,Individual,High,2024-05-25,Local Authorities
+13694303-44f6-448e-9ba2-363d393a77b1,"Smith, Myers and Davenport",Organization,Medium,2020-08-31,EU
+6dfae0d8-f954-4ec6-905d-9b696e35baa0,"Haas, Fischer and Murphy",Individual,Low,2023-03-05,Local Authorities
+ca808d5f-ff80-4e01-a737-07994df82697,Murphy-Middleton,Organization,Low,2022-09-30,EU
+90f66a78-0253-40ee-8e6b-ef54bb1ac7d0,Jeremy Dixon,Organization,Medium,2022-02-08,Local Authorities
+5e21be1b-14b8-4165-928a-5bf79925b34c,Nathan Farmer,Organization,High,2024-07-05,EU
+748e1b4d-dcbe-4c62-8830-b75848157f1c,Martin and Sons,Organization,Medium,2021-06-28,OFAC
+bc964399-75c4-48ef-ab02-d7f65f07dbe3,Austin Gray,Individual,Medium,2023-04-15,Local Authorities
+c9b56d4d-43d8-416e-95e1-4a1a096c3957,Stewart-Gray,Individual,Medium,2022-01-04,Local Authorities
+4745d59c-d74f-4f1b-b8ce-73b7747626df,Green-Henderson,Organization,Low,2023-09-20,UN
+419981b3-678e-450d-8dc0-2b4368daa05f,Woods-Johnson,Organization,High,2020-01-11,OFAC
+402c8723-b43a-4931-9685-75fbf89a2652,Mendoza LLC,Organization,High,2022-06-24,OFAC
+2f21d575-f22a-456e-bee6-7208fc58dc25,Amy Byrd,Individual,High,2022-08-01,EU
+41ac965a-f169-40c8-bdc3-d084b71339e5,"Orr, Perry and Gray",Individual,High,2023-07-26,EU
+5a3eefca-f853-44a2-814f-f2a983af6fb9,Leonard Smith,Organization,High,2022-07-29,Local Authorities
+cd4c0ff9-ccd6-49f6-9a80-983476a81d1c,Lopez Ltd,Individual,High,2022-09-24,EU
+d31b349d-c3cd-46dd-a67a-dcf59c1add9e,"Olson, Dudley and Nguyen",Individual,High,2021-02-20,Local Authorities
+6e7cab34-836a-4021-880d-fa19548b04a7,Spence Group,Organization,Low,2021-10-17,EU
+db15aad8-9034-42a3-81ba-d2ac85296dff,Johnson LLC,Individual,High,2022-05-25,Local Authorities
+2e7fd22c-0402-4c72-9245-5a43b34a0624,"Allen, Martinez and Johnson",Individual,Medium,2022-09-08,OFAC
+77e04244-adb2-48e8-b12b-896ac82b950d,Steven Yoder,Organization,High,2022-01-08,EU
+a8093a32-e06d-477f-a64c-3b9ea19e01c5,Olson LLC,Individual,Medium,2022-06-01,Local Authorities
+69dbc038-da8b-4d73-b90a-71b617c97cd0,Levy Ltd,Organization,High,2020-11-30,UN
+59bade92-277e-4333-bf04-faabb61ec927,Ochoa-Davidson,Organization,Medium,2022-10-23,UN
+41697515-22d5-41c2-b1a1-86c46124e203,Faulkner Group,Individual,High,2023-07-29,UN
+2b665732-bdeb-4e54-ab23-6fdfea4fbe21,"Vasquez, Maynard and Thomas",Individual,Low,2020-12-17,Local Authorities
+dcf1a318-3adc-4c67-8dee-69d7e21d3fd5,Brian Price,Organization,High,2021-02-22,UN
+f415978c-b572-47c0-8016-34f343938692,Michelle Walter,Individual,Low,2020-11-01,Local Authorities
+d0af19e9-4d10-4805-8dbe-c5b63031bcec,Roberts and Sons,Organization,Medium,2024-07-29,EU
+74d45d61-fce2-41a7-8a93-4799a8c76084,Cobb-Warren,Organization,Low,2022-04-21,UN
+d9adf90b-fbf1-4137-9685-fa9321025695,"Evans, Barr and Schwartz",Individual,High,2021-05-02,Local Authorities
+aef70199-3691-41c0-9fb0-589bcc22dbd2,Joshua Rice,Individual,Low,2022-08-07,OFAC
+7c4bbb26-413a-416f-a6d9-290282634549,"Ellis, Holt and Martin",Organization,Medium,2020-03-18,UN
+56d031d5-e88c-4442-a4c6-7e1bd6e691ae,Susan Marquez,Organization,Medium,2023-07-10,EU
+dc443120-8a0b-4e01-aa9c-afc7984606f4,Michelle Boyer,Individual,High,2021-09-13,UN
+eda53b23-87d6-4fe5-af1c-3b3812c16fb5,Stephen Porter,Organization,Medium,2024-02-04,Local Authorities
+32ae1ca0-3f7c-4b02-9522-0bf02973b272,Hunter Armstrong,Organization,Medium,2023-10-02,OFAC
+947195aa-f50a-4bec-83dc-21b9d5bcf8e9,Harris-Harper,Individual,Medium,2020-07-19,EU
+f1020ee9-c3d9-46b3-9a41-c04eb7dcee4a,Thompson-Moreno,Organization,High,2022-06-05,EU
+77009ba2-40a8-4bd1-9482-674041bd2b8d,Ward Ltd,Individual,High,2020-11-09,Local Authorities
+0898e137-eb2c-45fa-a5a0-dd59cf11c2c9,Christopher Williamson,Individual,Low,2021-03-17,UN
+d8d66377-891a-430b-a711-fdbaba57f422,Amy Benitez,Individual,Low,2020-12-28,EU
+a7929457-4a15-4282-ac29-acc4bb911546,Cuevas LLC,Organization,High,2022-05-23,OFAC
+618b03ef-57b7-425c-be53-74b8a8c39766,Hernandez-Gonzalez,Individual,High,2020-08-23,UN
+3277ac52-84c9-41b7-8465-92307a7b82b6,Good Inc,Organization,High,2022-10-28,Local Authorities
+67b3e1bd-ede4-4c7d-9d71-0aac9516c6ab,Chambers-Coleman,Organization,High,2020-07-08,EU
+554c1125-e26b-42f0-bfc5-5278e0ec0a43,"Hansen, Rocha and Roberts",Individual,High,2021-06-30,OFAC
+125528be-b97a-4780-9de7-2a2876afd2c8,Hunter Davis,Organization,High,2020-06-22,Local Authorities
+9d74ed7f-6175-4271-875a-96b55c6b1b1e,Smith-Calderon,Organization,Medium,2022-09-24,EU
+7be4529f-c7e5-414b-ae80-d19f1d4d946b,Keith Mooney,Individual,Low,2021-12-23,EU
+f53fc240-0c51-45e2-b740-c52081b29d40,"Lawson, Tyler and Gallegos",Individual,High,2022-11-04,UN
+1804223f-32ab-42da-a65a-8e0d75248d57,William Edwards,Individual,High,2023-05-18,Local Authorities
+40c03951-89c5-4713-888f-e6df98f26bff,Robin Aguilar,Individual,High,2020-12-17,EU
+aed41e1f-f793-4b8a-a952-2ab25fd8b722,Antonio Rogers,Organization,Medium,2021-08-17,EU
+8d843551-6b3a-4f01-acf5-cad139431111,Villarreal-Carroll,Organization,Low,2021-08-23,UN
+e3798baa-014e-4f88-9a1d-8a46dd6071c8,Knight PLC,Individual,Medium,2023-12-10,Local Authorities
+06cebee9-9e5f-452c-99b4-9345bf0cf852,Aguilar Inc,Individual,Low,2021-01-15,UN
+9a8308c4-edf9-444a-855c-19e732e91263,"Ellison, Mcdaniel and Alvarez",Individual,Low,2023-04-10,OFAC
+8b11d886-2963-4a70-8835-29d21cb24065,Heather Parker,Individual,High,2024-07-12,EU
+033ff971-a4a8-4295-abfe-2fb3d9a06a80,Young and Sons,Organization,Low,2021-12-30,Local Authorities
+4437f553-55cd-4410-a246-f7781e289b58,Mrs. Diana Bentley,Organization,Medium,2023-02-22,Local Authorities
+36a442aa-ba3c-4381-980e-378d0eb855d2,Cochran LLC,Individual,High,2021-07-09,UN
+0c116dd1-96b7-4d87-ba72-23d9ddc7b4fb,Daniels-Hopkins,Organization,High,2021-01-10,UN
+ff174a01-59a7-4a13-9896-8404e61bc297,Riley PLC,Organization,Medium,2022-01-29,OFAC
+0f1eddfa-122e-4ad6-a464-c51350b6bdb4,Meza and Sons,Individual,High,2022-09-12,UN
+d77e8501-c95c-45a9-9cb1-55969f4ad2e1,Stewart-Daniels,Organization,Medium,2022-10-03,EU
+494868cf-3f00-49c0-8b97-f2b362870031,Butler-Edwards,Individual,High,2020-04-10,UN
+c7d505a3-7a23-450f-8280-0a6aacf35773,Kathleen Vance,Individual,Medium,2023-05-27,OFAC
+4131f743-0e27-484b-bedd-c33e90f1882d,David Ramos,Organization,High,2022-04-02,OFAC
+c5b9fd32-7515-4837-be17-43728547e786,Todd Garcia MD,Organization,Medium,2023-01-20,UN
+bfb372b9-0145-4ca4-8e0b-c7f8afe2aa99,Joseph Simpson,Organization,Medium,2020-07-03,Local Authorities
+846e6a40-d7c6-48ee-8449-e994a7dbf67b,Scott Scott,Organization,Medium,2020-07-22,EU
+0af4752c-045e-41d2-9fda-35dfff7812c7,Jonathan Larsen,Organization,Low,2023-05-05,Local Authorities
+f729e842-a336-4eb1-be6b-56152fcd651f,Jessica Smith,Individual,Medium,2024-01-21,UN
+c90fcbbf-7d9f-4ebb-bd42-871befb03409,Ronald Montgomery,Organization,Low,2021-08-09,OFAC
+4360eba8-c38a-44d6-a330-008129ea18e7,"Nicholson, Valenzuela and Schmidt",Individual,Low,2023-01-21,EU
+3c38095c-600b-4265-bafa-5a653ecc1c28,"Vargas, Soto and Price",Individual,Medium,2023-11-13,OFAC
+5b4792ff-b5f5-426b-81e9-f1f44867d6e1,Washington-Lawson,Organization,High,2024-05-14,OFAC
+c323c297-f2f6-4dbc-bc66-09cc994611de,Christopher Miller,Organization,Low,2021-01-09,EU
+5e436497-eee3-4b21-a238-fe72b32f5750,Ryan Group,Organization,High,2021-05-20,UN
+407e7fc7-e75e-4c30-beed-a2404a3127e6,"Diaz, Smith and Sullivan",Individual,Medium,2023-03-05,UN
+88c93380-b807-4c79-aa9b-8c1a18bdd9a2,John Watts,Organization,High,2020-09-06,Local Authorities
+a2fcf9c5-0c91-4fdf-add4-67e2f600b099,Davenport-Gibson,Individual,Medium,2021-09-09,EU
+332b6440-e1d6-4a86-beeb-43276fe498cd,Snyder PLC,Organization,High,2021-08-24,Local Authorities
+8c5c753c-dce6-4687-a340-574a88b58a40,Deborah Hays,Individual,Medium,2021-11-10,UN
+8621b3e6-d25e-4cbf-8229-772ff6274f2a,David Rowe,Organization,Low,2023-06-05,EU
+2cf78c7a-2573-4453-8092-c77eaf9c92c0,Joanna Johnson,Individual,Low,2020-10-05,UN
+18c354a6-3357-4d67-9eb1-a45536d50ff8,Laura Cline,Individual,Medium,2024-04-06,OFAC
+9905dfef-fa77-4f6f-b552-49118a2bc8a0,"Brooks, Moore and Jackson",Organization,Low,2021-02-04,OFAC
+347ea8b8-f6c0-4c95-aa26-7a44ceed6177,Molly Dixon,Organization,Medium,2024-03-15,EU
+95cb7d2d-4e4a-4dbf-84b0-3c5259bfae84,Levine LLC,Individual,Low,2023-12-06,EU
+46078d18-02d0-4b46-803b-a5109229e93d,"Torres, Larson and Benton",Organization,Low,2022-03-13,OFAC
+8dac6a05-dee8-4f7a-8dfa-fd689bd46651,John Bradley,Individual,Low,2023-08-11,UN
+551dc4ea-0c77-4970-81f7-044237612b0d,Kelly Williams,Individual,Medium,2022-02-15,Local Authorities
+82b7d0b9-c88c-412f-9db7-48bbab1df8db,Davis and Sons,Organization,Low,2021-07-01,UN
+6a55e3cf-f916-47f5-a2d4-c29dc80e3f69,"Smith, Martin and Scott",Organization,Low,2021-01-04,UN
+d1a652d2-d043-45dd-93b9-95ac94ee8bde,Rose and Sons,Organization,Low,2020-10-21,OFAC
+1e315448-e9de-41cd-a11f-c0a2279a0e04,Garza-Cox,Organization,High,2023-03-09,OFAC
+05b7de3f-fb29-4787-a1fa-aedbe25a6311,Derek Hunter,Individual,High,2020-04-11,Local Authorities
+42e52500-460b-42c9-a5a1-04f78145dfc9,Tiffany Baker,Organization,High,2020-09-10,Local Authorities
+071fb991-2e6c-4bcc-82cb-cc8135cd863f,Gutierrez Inc,Individual,High,2020-01-04,OFAC
+285901cd-d639-41de-a829-214080b10f72,Brian Potter,Organization,Low,2024-03-18,OFAC
+7524dd9f-0d2f-40ee-86d3-aaee61cd964a,Lindsey-Hines,Organization,High,2020-07-27,UN
+0684a8da-604a-49e1-bd40-b590e0e774cc,Elizabeth Roach,Individual,High,2024-06-13,UN
+e7e54835-d963-418a-bc33-88c18a6142e7,Swanson PLC,Organization,Low,2021-10-03,EU
+b912d1b3-a024-445a-8218-f035de288f4e,Michael Keller,Organization,High,2020-06-18,EU
+98d6f7a4-232f-4770-bb76-560b5302bdca,Hernandez LLC,Organization,High,2021-02-23,OFAC
+728a3ae8-0eb5-4768-92ef-c7c4f6aa425f,Kerr-Clark,Organization,High,2020-09-17,OFAC
+003f6db1-7dd8-4f30-b2be-548e1e005868,Joshua Lopez,Organization,High,2022-10-27,Local Authorities
+b2fab008-7e87-4142-b8c9-620d4c30f707,Ashley Elliott,Individual,Medium,2023-08-11,EU
+494f2792-dbbf-43f6-96f3-e27ae57512b8,Gibson-Jackson,Individual,High,2022-09-10,Local Authorities
+e462a62a-bfcd-4718-887a-3b416de9144b,"Evans, Vance and Richardson",Individual,High,2023-06-29,Local Authorities
+c4f621d8-0c80-43c0-aeb0-8a28f85b7a05,Chapman-Luna,Organization,Low,2023-10-01,EU
+55266f0c-740f-4147-9529-18eeb875c4c3,Brooks and Sons,Individual,Low,2020-10-24,Local Authorities
+2297b5ab-347c-4f7e-8bd3-fe6c187ff11c,Erica Neal,Individual,Medium,2021-05-15,Local Authorities
+8ba2677f-4b3b-4f7b-a427-b0d8cda59224,Young Inc,Organization,Medium,2022-07-06,OFAC
+9514342c-ce56-42e5-8cb3-3dd2c574b289,Joseph Flores,Individual,Low,2023-06-10,Local Authorities
+613a02a4-072d-4882-ba3c-b17706712f6b,Luis Williams,Organization,High,2021-08-11,UN
+c77ce453-e321-4eb8-ac3a-8e28e66f92c0,"Guzman, Martinez and King",Individual,High,2021-12-31,OFAC
+f2ec491f-302f-47ad-a718-843737e62382,Mark Gomez,Individual,High,2022-02-01,UN
+cec11123-225c-4222-be8e-9adaa8f79494,Kenneth Crawford,Individual,High,2021-07-06,UN
+10df79ab-3557-4e0b-97e8-9bd1eac5fbeb,Romero LLC,Individual,Low,2020-12-22,Local Authorities
+f825f253-8953-4796-812d-2528c4aec1e0,"Sanchez, Fry and Ortega",Organization,Medium,2021-07-12,UN
+5b1e67ed-a262-4757-afdc-ebd376340b16,James Willis,Organization,High,2020-09-13,OFAC
+d497565b-26cb-4aef-9947-e184e1181b31,Joshua Herman,Organization,High,2022-05-06,EU
+84c16b42-3329-4865-8ea5-c5e371a3cf5b,Wilson LLC,Organization,Low,2023-04-22,EU
+e6360d01-51a1-44b5-bcae-1a96189fa9ac,Jeffrey Holmes,Organization,High,2020-03-31,UN
+40eebd8a-b440-4b70-85e0-f95f2461d794,Reed Group,Organization,Medium,2022-04-09,EU
+f02a173c-1e79-422e-bccb-d5837e578e80,Mejia Ltd,Individual,Medium,2022-10-18,OFAC
+5f6054fe-16bf-4004-a975-60b5fc8f9cdc,"Page, Harris and Johnson",Organization,Low,2020-01-26,Local Authorities
+4108f3a6-fa7b-4e2f-8e95-f35307fd7a6c,Nicole Thompson,Individual,Medium,2022-09-22,OFAC
+944cbf56-90cf-46e3-908e-816707f557c4,Danielle Edwards,Individual,Medium,2020-01-12,OFAC
+fd39a7f8-5b13-4ee8-be0f-3e1910e3f8ca,Michael Huynh,Organization,Medium,2022-06-01,OFAC
+de099a75-e05a-45af-8d1a-98b33a5c0339,Shelton-Baldwin,Individual,Medium,2023-01-31,UN
+d80e1b5c-db7a-421a-a92a-00a82c47662f,Susan Anderson,Individual,Medium,2020-10-16,EU
+3f25e541-296d-45e1-ab2b-3326a6b03541,Christina Taylor,Individual,Medium,2021-07-13,UN
+6352a100-5bbc-4665-b189-3657cdcb2376,Mr. David Woodward,Individual,Medium,2021-10-21,UN
+65c8b4b9-c252-4eaf-a2bf-35e51f2311ab,Gregory Frye,Individual,Medium,2020-06-05,UN
+374dd3dc-c1fc-4244-9c3f-d88df9650bde,Daniel Smith,Organization,Low,2021-02-11,Local Authorities
+747b778b-f223-49f8-be33-3f1e951cbfaf,Zachary Roth,Individual,Medium,2022-05-16,Local Authorities
+1af52320-1f94-4e5c-b7bb-efb21ca28318,Samantha Mendoza,Organization,Low,2021-07-10,Local Authorities
+1d10efac-0aef-422b-8244-7e2bd8e9f857,Wright-Thomas,Organization,Low,2021-01-16,EU
+9dbd2d2a-6237-442f-aedd-fbb9e2c25093,Jacobs Inc,Organization,High,2021-05-02,UN
+96d7637a-dfa3-438b-a449-e05e93912ced,Joshua Ashley,Organization,Medium,2022-04-20,OFAC
+141f355e-a0fa-4e43-951d-47c5d21b1ac5,Christopher Conrad,Individual,Medium,2023-02-20,Local Authorities
+a7dff086-4995-4f2d-9868-885896d9e616,Jodi Lawrence,Organization,High,2020-11-11,UN
+0dc98967-9717-4939-85be-2f6683974465,Patricia Brown,Individual,Medium,2024-08-05,EU
+20c0d1ab-a144-42f4-a394-699a23ecf629,Davidson Inc,Individual,Medium,2023-11-13,EU
+3754f72b-1a56-4160-824a-8008fbd92aa4,Price-Miranda,Individual,Medium,2022-12-03,EU
+6976cdf8-936d-4958-9751-7726add14af8,Steven Rodriguez,Organization,High,2020-11-14,OFAC
+f53f81c3-c494-4aef-a2b3-fd700e682cdf,Troy Ramsey,Organization,Medium,2023-08-23,Local Authorities
+c54a0a29-23c7-4254-8591-0cd4439cd203,Garcia PLC,Individual,Low,2022-05-18,UN
+59bd0681-00ec-4f1a-950a-be3d96d9abf8,Dunn-Wilson,Individual,High,2020-11-18,UN
+1bace622-605f-456d-96cb-f411bd6f4246,"Blake, Larson and Jackson",Organization,High,2020-01-31,Local Authorities
+ffe50d94-e0fa-4c3a-a027-f0b4fecb5322,"Gonzalez, Erickson and Wright",Organization,Low,2022-03-22,UN
+002238c8-8c8d-4514-b84a-ff3ab7e520c6,Angela Lee,Individual,Low,2020-06-02,OFAC
+39235cd7-332e-4fc1-9e44-e56e3b6cdf41,"Green, Martin and Martin",Individual,High,2020-09-01,UN
+cce144e2-357e-48bd-bdc2-374f8d7ef0c8,Stevens-Bishop,Organization,High,2020-12-18,UN
+4f6d3f9b-b5dc-4cec-9579-c32cbdbad425,Brown-Watts,Individual,High,2021-10-09,EU
+a27ef286-7fa3-45dc-9169-234d788e86bf,Goodwin-Robbins,Individual,Low,2020-01-02,EU
+08c4cb84-1963-451a-9120-be933fc81ba7,"Wilson, Myers and Reed",Individual,Low,2020-12-10,UN
+88ff922e-7006-4033-9b81-114c6125c988,Cassandra Raymond,Organization,Low,2022-12-13,Local Authorities
+5da2c470-cea8-439d-b112-3cb973ca6d9d,Collier Ltd,Organization,Low,2020-05-01,UN
+611fbe73-67e0-44c4-a5fa-0ee15f41a3f6,Romero and Sons,Organization,Low,2020-01-07,OFAC
+899d39da-cb6c-46f3-932b-ba13a33b8188,"Oneal, Castro and Wade",Organization,Low,2022-02-16,Local Authorities
+38da48b5-0cce-41c4-a1f5-6fc8419b4698,Burns-Clark,Organization,Low,2023-01-23,OFAC
+60d30e71-9c28-497c-ba36-1657623c431e,"Campbell, Allen and Weiss",Organization,High,2023-02-27,OFAC
+0b081187-72e2-4767-95a1-6fb5be7f75e1,Jessica Nelson,Organization,Medium,2020-04-10,Local Authorities
+679c1913-a9ce-4537-bdc8-9cb87729314f,White LLC,Organization,Medium,2020-01-01,EU
+c8d6f92a-8e56-441e-957e-b89b966c6065,Robert Conley,Organization,High,2021-12-31,OFAC
+8ab86697-77d4-45d9-ba75-8ed54063829d,Huynh Inc,Organization,Medium,2022-09-10,OFAC
+8ab08faa-a126-481a-9d95-c07f140eab66,Leach-Brown,Organization,Low,2020-01-09,Local Authorities
+02390647-da37-45c9-b142-bed94745e784,Emily Palmer,Individual,Low,2022-08-24,EU
+f3ead0f6-acc3-455f-ab80-bb79d1733af5,Joseph Munoz,Individual,Medium,2022-10-28,UN
+16d4db8b-c359-49ef-bd7e-c72117c0233d,Mcgee-Garcia,Individual,Low,2024-01-21,Local Authorities
+c0b53033-940e-4c73-a73b-4f5f745fe26e,Becky Mack,Individual,High,2020-11-15,UN
+9b6cd750-528e-4f83-924f-72edb2459b55,"Wong, Torres and Buck",Individual,High,2020-05-29,Local Authorities
+534cdf7b-a9a3-418a-b19a-38693004960d,Santos Group,Individual,Medium,2021-08-06,OFAC
+d739b172-8000-45e0-8e45-2c2f3c43b78a,Morrow-Lee,Individual,Low,2020-05-16,Local Authorities
+f7584688-9da4-48bb-a210-7c27cdbd1b10,Williamson-Burke,Organization,High,2021-08-17,Local Authorities
+90b69399-c67b-4ece-af08-7f8b3dd190a0,Joseph Patrick,Individual,Medium,2022-06-13,UN
+dbffe3c5-590d-457a-aa14-49b7197c7565,Costa-Santana,Organization,Low,2022-09-23,Local Authorities
+1a106a9d-0b97-4add-894e-0eaacd08cc34,Burgess LLC,Individual,High,2024-03-24,OFAC
+9b0107ce-454d-4ad4-8979-7c7f1ccf6ac5,Richard Dixon,Organization,High,2023-10-25,Local Authorities
+33b90446-5d61-45ea-b771-12f929a6ab39,Jillian Trujillo,Organization,Medium,2024-01-10,UN
+e1e083ea-72b6-4477-a2d6-5a5a8bce98e0,Tyler Bryant,Organization,Low,2024-05-30,UN
+0efd31bf-8aa3-47cd-ba15-e76568a2fcaf,Benjamin Jones,Individual,High,2023-06-28,OFAC
+e62fe061-a236-467b-8714-0241a6ea5a09,Caroline Coleman,Individual,Low,2023-11-11,Local Authorities
+ae0aa13d-7cc9-407e-8242-944989dffed0,Natalie Conway,Individual,High,2021-01-11,Local Authorities
+74ebe1dd-5130-459d-96fb-727f2f749a86,"Johnson, Porter and Juarez",Individual,Low,2024-06-07,UN
+2bccefaa-3b8f-4e42-9d3d-af342ce3c794,Bryan Diaz,Individual,Medium,2022-11-08,Local Authorities
+541fa37c-ae67-4b4a-9ecc-cd5b97ebd58a,Haley Fernandez,Organization,Low,2020-05-18,OFAC
+4d966ec0-def6-4461-8bda-b8e1f3c13f84,George Young,Individual,Low,2020-02-21,Local Authorities
+315e6263-56cc-4232-ae04-827f425c432e,Brian Sanchez,Organization,Low,2022-01-03,OFAC
+7c7f06be-385a-439d-8c26-0fffdef6d276,Danny Bailey,Individual,Medium,2024-06-22,Local Authorities
+39982166-ff24-4d13-a70c-7b4bd5899165,Laura Hart,Individual,Low,2024-07-18,Local Authorities
+8fa689b1-ba52-448c-b191-20ba6ae486e4,Watson-Wells,Individual,Medium,2022-07-26,EU
+124c453f-bf61-47f3-a362-97466ab221a9,Angela Williams,Individual,Medium,2021-02-27,EU
+1cbef316-c9a8-4027-a7a4-83424f68db55,David Kim,Organization,High,2020-12-26,OFAC
+c8f702f9-0758-47e7-9958-f61248ff3cc6,Brandy Fuller,Individual,High,2024-02-09,UN
+2ba13add-43df-401c-b818-7146eb06b0e3,Murray LLC,Organization,Medium,2020-07-30,Local Authorities
+910985c2-8643-44c1-9a98-8ff3efd245f6,Taylor LLC,Individual,Medium,2022-10-09,OFAC
+dca99cfb-2953-45f6-902d-826c57e0bdd9,Robin Fox,Organization,High,2023-06-26,EU
+40b36d4b-7cd2-403e-b327-0d0faff14cc5,Fisher-Murphy,Individual,High,2024-05-09,OFAC
+afb79566-e6d6-4f3a-a33c-c4e814e620a1,Frank Shields,Individual,Medium,2020-05-27,Local Authorities
+950c8975-43fa-4d05-a59b-803304ed7380,Nicholas Young,Organization,Medium,2021-03-25,EU
+3e4af8c8-6e5e-49c7-9484-3e29842fc71d,Sandra Smith,Organization,High,2021-05-03,UN
+965247a2-e802-4080-8003-6890f656f02b,Nguyen-Reilly,Individual,Low,2021-11-12,UN
+f2dc9163-de05-4571-b4b0-724173e7ef09,Patty Campbell,Organization,High,2022-10-30,UN
+59b571dc-58b3-4270-966f-cccc72cf9885,Juan Richardson,Individual,High,2021-07-23,Local Authorities
+3548e958-10ce-4076-9139-07e458776c5b,Harvey-Murray,Organization,High,2020-11-11,OFAC
+0a2e18b7-382a-458f-88db-88ae5b8d8e04,Amanda Nichols,Organization,Low,2020-12-14,Local Authorities
+2f26e871-9569-435e-bac2-b53428e58694,Kyle Malone,Organization,Low,2020-04-04,EU
+3f89dbfa-ca3a-4f9c-8813-5ec0b9383aaf,Robert Mcgrath,Individual,High,2022-05-08,UN
+00ce7283-5a54-471e-b027-1e6d82e16a66,"Ramirez, Diaz and Kelly",Individual,High,2023-02-10,EU
+51e41b1f-da4d-42e0-8139-1769cf1fa378,"Campbell, Ingram and Snyder",Individual,High,2020-06-14,OFAC
+6814804c-ad9b-4f3e-acbd-7ce9ff1ce642,Nicholas Barker,Organization,High,2023-10-04,UN
+72208e85-6503-4b3e-b90d-11490872584a,"Villanueva, Rodriguez and Johnson",Organization,Medium,2024-01-18,EU
+e49c1e91-0c12-4510-b401-7df81f1f460c,Laura Simpson,Individual,High,2021-07-15,Local Authorities
+b8a3b3b6-d441-45d4-8a68-18bd3de635e4,Mcdonald-Nguyen,Individual,Low,2022-02-24,Local Authorities
+ce6213be-5b28-4847-ad5d-8475f9ff224b,Mrs. Madeline Townsend,Organization,Medium,2021-09-29,Local Authorities
+d813e5e4-8a0b-46ae-be6a-d8146eb0b6b3,Tyler Robertson,Individual,High,2020-02-12,UN
+7fc259a7-b750-4b78-b198-9a05049684c0,Wiggins-Taylor,Individual,Low,2022-11-14,OFAC
+8c05c340-b221-44c4-8484-7b6dc4677632,George Williams,Organization,Medium,2022-08-21,OFAC
+a6f5a286-09ff-4b10-9dce-e9ac210171b7,Sutton-Henderson,Individual,Medium,2023-06-26,OFAC
+03da289b-f2ef-4913-9918-331030912492,Pamela Mendoza,Individual,Low,2022-01-11,OFAC
+9700222c-99a6-4338-9c95-8f582017c01a,Susan Allison,Organization,High,2021-11-11,UN
+6cada74c-06f5-44a7-807d-b1687e2a5c4f,Myers and Sons,Individual,High,2021-03-02,OFAC
+0255a878-4d39-4bbc-b9b6-6717b65c2e83,Frances Moore,Individual,Low,2020-10-14,EU
+b74b6bff-7702-46f7-ab4c-8de445645ce7,Crawford Group,Individual,High,2021-06-08,UN
+1171f5f4-cb56-4bd6-8c44-db7bf4a454d1,Wade and Sons,Individual,Low,2024-05-31,UN
+3696a45a-2d6e-46d1-9e12-ec57486f441e,"Ellis, Hernandez and Jenkins",Individual,Medium,2020-08-04,EU
+8eaa6f0d-36f0-4690-936d-0080f9ca160e,Jose Nelson,Organization,Low,2020-05-10,UN
+dcc82a88-e20c-4709-9991-a5156ed395ff,Christopher Castro,Individual,High,2022-02-21,Local Authorities
+a146b557-961d-4111-a635-78489f03b8e0,Mary Alexander,Organization,High,2022-04-16,UN
+42773d1b-9cb0-4195-9395-523023db0ce5,Heidi Donaldson,Individual,High,2021-04-23,UN
+059b33c2-df31-43d8-9bea-79d9c133393c,Baker Inc,Organization,High,2024-04-21,Local Authorities
+dd5bfd4d-cabb-46b3-b07f-a91593a767ba,Rebecca Cox,Organization,High,2022-10-04,OFAC
+73c5010e-143d-4530-831e-efaf6a72b2bf,Mary Holder MD,Organization,High,2023-07-04,UN
+4d79f1d0-eb05-46f6-8e95-837a0eafead0,Hines LLC,Individual,Medium,2020-07-23,Local Authorities
+30cd7c91-6216-4807-b7b7-97250a45952d,Jonathan Kelly,Individual,Low,2023-09-10,Local Authorities
+3bb5b7ea-fe0c-427e-bd0c-f36f941ccccb,Gonzales-Wagner,Individual,Low,2022-08-29,UN
+a4c017cc-9fae-4449-a7e2-712bb30c2a43,David Wall,Individual,Medium,2022-11-10,UN
+67898530-3cfb-4956-b995-3f2c8464d3b1,Eric Wolf,Organization,Low,2024-08-06,UN
+c26093c8-ba07-4039-b1b3-220c73385eac,Lucas Parker,Organization,Low,2020-07-24,Local Authorities
+f064164c-32c3-4f21-9412-abff9d96482d,Jason Ramirez,Organization,High,2023-05-02,Local Authorities
+37ea026a-a122-40e8-a597-99b1bf1f61cf,"Shah, Gray and Ortega",Organization,Low,2020-05-17,Local Authorities
+aefb0b44-158b-459e-b4f9-80cb3eff240b,David Barton,Organization,Medium,2022-10-14,EU
+d877b87a-f12a-4b6e-9108-4e50f1f249fb,Hannah Lewis,Organization,High,2023-12-16,UN
+1b0c4d4b-5aa4-42fb-8414-51226e549f42,Colleen Ayala,Individual,Medium,2022-08-02,Local Authorities
+b460164b-051c-4835-b416-5f1a42d67c0c,"Holmes, Mcguire and Montgomery",Individual,Low,2023-10-08,OFAC
+88256ff2-9b99-4dda-810d-994e90564caf,"Jimenez, Lee and Oconnor",Organization,Medium,2022-05-20,UN
+85d5a5c3-80ec-4116-971c-d69e55783013,Mackenzie Carter,Individual,Medium,2022-01-12,OFAC
+b1bcd743-16fd-4247-994a-3d97261ae21a,Edward Smith,Individual,Low,2023-03-02,Local Authorities
+50bb071e-e028-4037-a1a8-3593bcd9f54d,Morgan Ltd,Organization,High,2024-06-05,Local Authorities
+36c33b7a-2d31-43bf-a675-49addedf5b35,"Castillo, Taylor and Gonzalez",Individual,Low,2021-01-27,OFAC
+0cc10e58-8830-4114-808a-9902e953a6db,Samantha Flynn,Organization,High,2023-01-30,OFAC
+bcf8ad0f-d5c8-4a9e-a3d1-8150ba0d4cec,Brittany Fuentes,Individual,Medium,2023-08-29,UN
+9c7f7ac2-aa00-4a8b-b3b5-48d3260ba903,Sheri Green,Organization,Low,2024-04-10,Local Authorities
+80f12cdf-8d12-432b-bdf4-e9747f674fc8,Paul Wilson MD,Individual,High,2022-08-10,UN
+0e1218be-4d04-4781-b041-1f8fb412044b,Gina Ray DDS,Organization,High,2020-10-31,OFAC
+f8d58ccd-a148-4b90-b252-c2089e457315,"Rodgers, Ruiz and Campbell",Individual,Low,2024-03-07,UN
+7df6be01-cedd-447a-95bb-3aee238f2b4d,Justin Winters,Individual,Medium,2021-04-26,Local Authorities
+1692d9f0-6a83-4a32-96d2-5d71fd83ea03,Stacey Arnold,Organization,Medium,2023-11-21,UN
+cbe69f10-0932-4edb-a241-7f3ea20209a7,Manning-Lewis,Organization,High,2023-07-02,Local Authorities
+0e77c771-6e30-43ce-a43e-af3d317a230d,Sanchez-Jones,Organization,High,2023-08-14,OFAC
+58f50342-480a-4df2-bee4-621d62498351,"Avila, Ferrell and Moran",Individual,High,2021-07-05,EU
+ef2657a7-84bc-43e1-99fd-a9c1b5ebb7d0,Zimmerman-Munoz,Individual,High,2021-06-05,EU
+85a15855-34be-4d58-9162-d7c0293cbe6e,"Cordova, Joseph and Montgomery",Individual,Medium,2020-07-07,OFAC
+0bd41b7d-b541-4414-98ca-f7420ce3b29e,White and Sons,Organization,Medium,2022-01-01,Local Authorities
+72632fe4-f833-4adc-80e2-065998f581cc,John Harris,Individual,High,2021-06-27,EU
+45a90e9c-0b1e-4252-b215-9d6f69791f09,Steele-Long,Individual,High,2023-04-10,EU
+091cc2f8-e7c3-4195-8bf2-0fa8ff657b8b,Olsen LLC,Organization,Medium,2020-11-19,UN
+3fd276d0-bb0c-401a-80cd-55b558cacab1,Watson-Coleman,Individual,Low,2021-06-21,UN
+a4552172-6183-41c1-8138-7c2a82b0f538,Jennifer Smith,Organization,Low,2023-06-04,UN
+e0b4f426-48c8-447a-8403-bbaefee2a822,Hanson PLC,Individual,Medium,2020-10-14,Local Authorities
+83b9092d-9ac2-4e60-9873-84699ff77b50,Daniel George,Organization,Medium,2023-06-07,OFAC
+cf572154-8bf4-40ed-bcb3-3e2c6d833d5f,Kyle Lambert,Organization,Medium,2022-10-09,UN
+31e1920e-1c91-46ca-a36f-e0358d271202,Shelton Ltd,Organization,Medium,2020-09-27,OFAC
+68909f9c-69cd-4cca-be19-3b3c541d36d8,"Brown, Marsh and Mccall",Organization,Low,2022-08-06,UN
+688a9c2e-61cf-4193-943c-2e96897c9107,Anthony Wells,Individual,High,2023-11-08,EU
+fd6e4acc-e32f-4b14-b25e-95378d9732ed,Ann Joyce,Individual,High,2020-05-02,EU
+272a454a-c16d-41c1-958a-2912e6f7a422,"Butler, Wright and Bush",Organization,Medium,2023-09-24,Local Authorities
+7feac21a-9db2-4508-9921-e6a9bb83d242,David Dean,Individual,High,2022-07-26,Local Authorities
+cda8ba2e-fd4d-4f00-8eb9-47c9f5b4320e,Kristine Brown,Individual,Medium,2020-05-09,OFAC
+d7b7dbeb-99df-40cf-97d5-cd78be4e553d,Christine Fitzpatrick,Individual,High,2024-08-02,UN
+cdd9afdb-964f-4f18-a11a-7047feb4e490,Jessica Wang MD,Individual,Medium,2022-04-16,EU
+c3eaea1b-876a-421a-90d3-c1ce8652e8d4,Sharon Wood,Individual,High,2020-10-17,EU
+aca3a077-2984-429a-b414-2328a59263b1,Parker Inc,Individual,Medium,2021-05-05,OFAC
+c3e7984a-91d4-4df6-a1bb-90e074c1c4b1,Romero-Robbins,Individual,High,2021-08-02,OFAC
+4c7953d1-94a1-4445-baa6-ccf03faf6703,"Tate, Gomez and Lang",Organization,Low,2020-05-17,Local Authorities
+f9152a8f-bb8d-4a00-b30e-f3cfb4c0ba99,Rogers PLC,Organization,Medium,2021-12-24,UN
+b6a55347-b834-49ec-a35c-c630c43b586d,Orr Inc,Individual,Low,2023-06-25,EU
+d371ac96-5f1b-46ae-b981-a8595cb65cbf,Morrison-Paul,Organization,Low,2022-05-27,UN
+052bff98-1327-40eb-8c2e-05e9a792d9d1,Crawford-Hensley,Organization,Medium,2023-07-04,Local Authorities
+556152db-a277-4dc4-8bab-ab9d627d08ed,Garcia-Koch,Organization,Low,2021-04-04,OFAC
+4663af27-64eb-46d5-a08c-d775fc6f113a,Olson-Dixon,Organization,High,2021-04-18,Local Authorities
+ee2095dd-2a13-4927-9108-2733dd96e682,"Anthony, Gaines and Carroll",Individual,High,2022-03-10,UN
+11eb0a78-669a-428c-8b26-b9e7f6cbda98,Howard-Avery,Individual,High,2022-03-06,OFAC
+4143ddb4-d42b-4607-a0de-18a56cc06ff6,Howard Ltd,Organization,Medium,2022-03-14,Local Authorities
+25fca2a1-8eda-41ff-92c1-26ee67c2eb7d,Alexander Cunningham,Organization,High,2023-01-02,Local Authorities
+cbdd3b4c-7582-4399-bf9e-e2a9423b4506,Jacqueline Thompson,Organization,Medium,2020-08-03,OFAC
+e45b31f2-8412-4b8b-99bb-c22725a037ea,"Mathews, Farmer and Henderson",Organization,Medium,2022-12-06,OFAC
+6fb68f07-7faa-443e-9740-5af06a683b8b,Rogers-Kennedy,Individual,Low,2020-11-21,EU
+54350797-aad0-4474-86d9-f28389be06cb,"Stephenson, Molina and Whitney",Individual,High,2020-01-10,UN
+81526d40-b47c-442d-a5e3-e811a8e2592f,Jeremy Harris,Individual,Medium,2024-06-23,UN
+e9c7d597-de3f-4843-9406-73a6fe84644e,"Robinson, Rodriguez and Roberts",Organization,Medium,2020-08-29,Local Authorities
+09f5c2a5-cee2-4329-a6dc-88cf9fafe188,Escobar Group,Organization,High,2021-05-12,UN
+747912cf-a220-465f-98ba-5188b27ac2d3,"Lutz, Beck and Hart",Organization,Medium,2024-07-02,EU
+971e3d0d-b57d-40dd-853b-1a4873c08132,"Ballard, Poole and Thomas",Organization,Medium,2020-04-03,OFAC
+94acd567-53f6-4c35-9e5f-dce1f593d6ae,Deborah Webb,Individual,High,2023-06-13,UN
+b8268e8e-59ed-4175-9a66-d1392d60ea58,Nichole Villa,Individual,High,2021-10-17,UN
+67c173c9-9175-4f6b-9c9f-c208634ae0b0,Antonio Duran,Organization,High,2024-05-24,OFAC
+008af090-f4b5-4c5a-9c39-2a1068890a99,Tara Cervantes,Individual,High,2023-07-29,UN
+52bee901-b07b-4286-b712-fa767e2997ac,Mary Robinson,Organization,High,2021-09-14,UN
+f431afc1-5832-4e62-88e4-f563aba87f5a,"Becker, Levy and Mathews",Organization,Medium,2021-08-13,UN
+6b634cb6-fc9f-4ce7-a069-6c182b5c756e,Kimberly Byrd,Organization,High,2023-09-13,UN
+fa34fc59-6df1-4381-9123-2a5f49fd0160,David Daniels,Individual,Low,2024-03-18,Local Authorities
+45d251df-1d17-46a3-9a1a-63987034b448,Dana Oneill,Individual,Medium,2022-07-02,OFAC
+490a57e1-89f2-4309-971b-e90f79b536cf,Robert Davis,Individual,Low,2024-02-16,UN
+0ca3cda1-a049-4325-b392-6ba04b600da1,Davis-Gonzales,Individual,Low,2024-01-06,UN
+e760ee28-8fd0-464a-a559-7744ed97753c,Crawford-Proctor,Individual,Medium,2022-09-24,UN
+04bd2331-965e-40ab-a3ed-6aa276c3ff32,Carr LLC,Individual,High,2022-09-17,EU
+438d0e69-8911-4dc9-9fd5-213932fafe7c,Mitchell Group,Individual,Low,2021-08-24,Local Authorities
+2df9bf1d-dd2f-4960-8820-223228b9e488,Ashley Powell,Organization,Low,2022-05-12,OFAC
+18ec9468-52db-4a2a-8cfa-3b7b08c78ddd,"Rush, Copeland and Miller",Individual,Low,2024-02-17,Local Authorities
+69a5d901-b8c5-4a9d-93dd-c65c5921c06a,Cheryl Robertson,Organization,Medium,2023-07-14,Local Authorities
+cb4e3750-8a37-4088-bd4e-f28bf7906421,Booth-Ortega,Individual,Low,2024-03-15,UN
+74aef03b-d472-44ff-be7e-a74071f833d0,Wilson PLC,Individual,Medium,2024-01-31,EU
+dec6352c-c0d5-4898-ac35-6479ba4da1a3,Walters-Lara,Individual,High,2021-08-25,OFAC
+475b1ba3-3092-4328-82c2-ab67ed273b48,Andrew Burns,Individual,Medium,2021-01-04,OFAC
+26246226-1c5e-4972-8ba7-b8953bfff718,"Parker, Hunter and Henderson",Individual,Low,2023-01-21,UN
+4e544e47-8759-40a5-86a5-637e9752fc78,Howell-Bowman,Individual,Medium,2023-01-10,OFAC
+ec8ff06f-97de-4dd6-8435-dd0e62688191,Lawson-Bell,Individual,High,2024-03-09,Local Authorities
+c977ad76-b027-4101-9bec-4f7a79596157,"Chang, Oneal and Randall",Individual,Low,2022-08-10,UN
+8c1f6717-5366-44d2-91a3-571a25ed4cc7,Jason Brown,Individual,Low,2024-02-27,Local Authorities
+4920ad70-1e32-489c-b60a-7223fafcdbef,"Stephens, Ellis and Jimenez",Individual,High,2022-02-01,EU
+31364062-39d0-43b0-9598-440e45c9f2d0,Stokes-Lucas,Organization,Medium,2023-10-21,UN
+921b78bb-e11a-4f8b-af22-8cb56afb4fd8,Richards LLC,Organization,Medium,2024-07-29,OFAC
+e3025c8f-2eef-4448-8adf-cf04adff5e76,Debra Hernandez,Individual,Medium,2020-02-09,UN
+1657df24-4ee6-4158-9c4d-a40d61298057,Crystal Bray,Organization,Low,2020-01-01,EU
+4e203a89-a0cc-41e6-852f-d44f600f1672,Richards-Alvarez,Organization,Medium,2024-03-28,EU
+b3896f6e-79d3-4d7f-bf80-41a27211dda5,Ibarra Ltd,Individual,Low,2020-07-25,OFAC
+12bfefc3-738c-44f4-b06c-2e94178b164b,"Cox, Charles and Davis",Individual,High,2020-03-30,Local Authorities
+b3020fa5-b5cc-4ebd-9798-19a759880e3e,"Marsh, Lopez and Gutierrez",Organization,Medium,2022-11-22,Local Authorities
+5234cc58-2ae0-465a-ba7a-21876835bad5,Andrea Jones,Individual,Medium,2023-01-25,Local Authorities
+7894c703-9022-4eb9-b42d-d2c67b2d0647,Michael Harris,Individual,High,2024-04-19,UN
+2540ddef-7b2d-4dfd-af9b-fed9b5ffedf4,Russell Lawrence,Organization,Medium,2023-07-08,Local Authorities
+83517a3e-c0ab-46bd-9e1a-8efed97a451f,Lucero-Trujillo,Individual,High,2024-03-28,OFAC
+7beba409-c5d5-4bc0-b997-7834ef3c6287,Johnathan Chan,Individual,High,2021-04-27,Local Authorities
+0837cad1-9c17-4fa2-a8cb-f85c4e348b0b,Harrison and Sons,Organization,Low,2022-12-01,Local Authorities
+540060d0-a1e0-49d1-a4ae-4e4f57b46efb,Dr. Craig Mejia,Organization,Medium,2024-07-29,UN
+bfd39cdb-8545-44de-80ed-2f4e726636e3,Debbie Phillips,Individual,Medium,2022-09-22,Local Authorities
+2de43251-e96f-4e8a-845f-4112843dd8e1,"Valdez, Nolan and Woods",Individual,Medium,2023-11-17,Local Authorities
+4fd9dee2-fc4c-4ba7-8017-78176c0699ad,Kyle Jones,Individual,High,2024-02-28,EU
+578fcc46-0503-4f11-8877-684f15c56836,Brown and Sons,Organization,High,2021-08-16,OFAC
+2f9bcbda-6268-434c-b190-dcb2c4707963,"Reed, Smith and Ramirez",Organization,Low,2022-02-02,Local Authorities
+17be9223-e05e-418f-bc57-c4c03eff48ce,West and Sons,Organization,Low,2023-08-30,UN
+4fa4d6d8-889c-4f9b-b300-b026c5a58c3d,David Gutierrez,Individual,Medium,2020-07-12,OFAC
+f0b35a5a-cd6a-465a-8190-0c9b77d312cd,Jennifer Harris,Organization,Medium,2020-07-27,Local Authorities
+d765eff7-7ac0-4053-b0ef-32f4202e7e20,Gallagher LLC,Organization,Medium,2021-05-17,Local Authorities
+04b090bf-6f1f-4bf4-8f43-2e63b53e0a5d,Jason Gardner,Individual,Medium,2020-06-22,EU
+66476946-e698-4ca9-b078-6e63add471cc,"Hughes, Turner and Hale",Organization,Medium,2022-02-12,EU
+04c14a84-2501-402f-9742-7a1d9ebfb702,Mr. Mario Kim,Organization,Medium,2020-08-05,OFAC
+1c682088-523c-4158-bfe5-d3f085c2805f,Harris Inc,Individual,High,2022-06-20,UN
+e804dc43-1f6f-4c6b-994f-1bc4b447ae5f,Matthew Jackson,Individual,Low,2021-08-12,Local Authorities
+3e2b07d2-519f-4b10-ad36-61b6c6164a03,"Schmidt, Blanchard and Kerr",Individual,High,2020-11-26,Local Authorities
+dfee53ed-89ed-4d94-a000-aa42561dbb62,Amy Barber,Individual,Medium,2022-02-08,UN
+06c91392-6d4b-4ee6-b0f1-db2b9e8871b2,Morris PLC,Individual,Medium,2022-12-30,OFAC
+5733d0a3-f747-47d7-a8a6-c23e80a1693b,Lewis-Munoz,Individual,Low,2023-09-29,EU
+8ee7c3b8-d3d1-49da-8380-aebef6586b93,"Baker, White and Reed",Organization,Low,2024-05-26,UN
+4a468b0f-d808-43c7-ba44-ddebb5c2e940,Sullivan Group,Individual,Low,2022-01-26,EU
+58a4159a-d4f6-4f57-9dc8-eb7e42aba400,Zachary Cunningham,Organization,High,2022-08-19,Local Authorities
+955e9ccd-84d5-4b8b-8c0c-cc335a7c9aca,Janice Hays,Organization,High,2023-11-05,UN
+4f25cf14-7a95-4b10-b3d9-343517585b5c,Rose Group,Individual,High,2023-11-08,Local Authorities
+40394783-a06d-4723-8793-c9feb1caccb1,Ritter-Stanley,Organization,Medium,2021-08-31,Local Authorities
+debc59b3-aa3c-4959-8fb2-2883918fb07e,Mr. Kenneth Bauer MD,Organization,Medium,2021-08-24,Local Authorities
+db94f8b3-6e86-447c-a780-4eb458107e2c,Kelly Stephens DVM,Organization,Medium,2020-03-30,Local Authorities
+38c25a71-b4f3-4894-93e9-6b765e31be6e,Kaitlyn Thomas,Individual,Medium,2020-12-10,EU
+ad339354-0cb4-402e-9a5e-04ee33867a3d,Ronald Johnson,Organization,Medium,2022-07-30,EU
+e7d55446-43bf-46e7-96f3-20bb89119c68,"Jones, Smith and King",Individual,High,2023-04-18,Local Authorities
+3288aa9c-ae67-4006-ac95-67439f9b8c01,Boyle and Sons,Organization,Medium,2023-11-28,Local Authorities
+d4c14c0a-48f5-41c1-a1df-886639e12d8f,Michael Gilmore,Organization,High,2023-05-19,Local Authorities
+8e685ee5-f829-4663-ba67-15e356884cc6,"Gonzalez, Powell and Mason",Individual,Medium,2023-09-28,OFAC
+861bbe02-5d54-4a20-afa7-2b1cf830861b,Charles Lee,Organization,Low,2021-06-19,OFAC
+87852ac2-46ff-415b-8752-6b1d359671bc,Gonzalez LLC,Individual,Low,2020-06-30,OFAC
+f03129eb-85ed-45ba-955a-a17e1808f373,Gray PLC,Organization,Low,2024-07-17,EU
+1a700412-de37-423e-be37-4cccb24f7e24,Barker Inc,Individual,Medium,2020-07-28,UN
+2bcbdc18-31b0-4217-a0e6-1420fda9f310,"Curry, Serrano and Brooks",Individual,Low,2020-07-06,UN
+16c87136-7b5f-47e2-aa8c-9aeeeef6ec55,Santiago Ltd,Organization,High,2021-03-13,UN
+62dbc1c1-be09-47a3-9c12-56ff8e9148f0,"Ross, Gomez and Davis",Organization,Low,2021-06-09,EU
+3b34bea9-623e-49f2-9b88-bee427fd592b,"Cruz, Nguyen and Drake",Organization,Medium,2023-10-11,UN
+ce710bf2-ec98-4dc7-b8b0-c97ab5f0f485,Michael Cook,Organization,High,2024-05-19,EU
+27c7e833-6a83-48bf-9403-f75e07d7ded2,Joyce Wright,Individual,High,2021-07-29,EU
+5c75d164-8f85-45a6-a4a3-75decddb48f5,"Taylor, Wright and Graham",Individual,Low,2021-12-20,EU
+6dfa3e2c-7026-4a0b-a207-e26ee2af78e4,Richard Anderson,Organization,High,2020-03-09,OFAC
+98bd5552-7540-46b9-bb1b-8fffe96d531c,Robert Garner,Organization,Medium,2020-12-28,OFAC
+7f145507-ee7c-41ee-8255-8e95cd05267c,Austin Vasquez,Organization,High,2020-12-18,Local Authorities
+acb73475-7481-450d-bf8c-78bdfa1f6408,"Anderson, Cochran and Gomez",Individual,High,2021-03-06,Local Authorities
+ec7382d6-1dd0-42f9-b37f-90a5c747ae77,Harding-Booth,Organization,Medium,2020-03-06,OFAC
+d0fd83c6-9c24-4154-83ab-067123520dc6,William Yates,Organization,Low,2022-03-23,OFAC
+f0ccd967-4c4b-4313-865a-4d82d02bde3a,William Black,Organization,Medium,2023-06-13,UN
+13eb7704-061e-4e6b-91ac-88ba6627cd65,Clark-Hamilton,Individual,Low,2021-08-03,EU
+4d316113-b560-4089-a4a8-fc9970ae2c96,Phillip Watson,Individual,Medium,2020-11-02,OFAC
+1d0c7382-8d7a-4af0-b7db-577b414ab662,Samuel Garcia,Organization,High,2023-03-22,EU
+2d63ab58-f4d8-411e-b916-08fec36d58e9,Tonya Gill DDS,Individual,Medium,2024-04-30,UN
+04e235e7-af77-42f5-9149-f18e489c2c0a,"Gray, Stanton and Rios",Organization,High,2022-06-29,Local Authorities
+5f848c90-0611-45a9-9016-656726320092,Perez-Turner,Individual,High,2024-03-14,EU
+26a640a5-4660-49a6-9f47-2c63665f8901,Sean Johnson,Organization,High,2022-08-09,Local Authorities
+6eec08ef-6682-4f10-984d-51e609928489,"Webb, Leblanc and Davis",Individual,Low,2020-05-26,OFAC
+25ecfd1a-7440-4bfa-95ba-ad43cecb7bbd,"Mcknight, Jones and Hansen",Individual,High,2020-03-23,Local Authorities
+bac2d6b0-c94a-40fa-bbe8-8d71994d34da,Frederick-Johnson,Individual,High,2024-01-18,UN
+78097db0-e8bb-4053-9c46-a8eb24d42627,"Perez, Branch and Nelson",Organization,Low,2024-03-06,EU
+49b73e3d-3402-4d6c-bc17-cf729a6a5f06,Robinson-Stevenson,Organization,High,2022-07-02,Local Authorities
+5b97ecf4-a165-4cd9-b65d-c60a9698c3b4,Denise Rowe,Individual,Low,2023-10-29,EU
+3860f440-21cc-4dd6-a731-7c3df428f7ee,Cynthia Bowman,Organization,Medium,2022-07-28,Local Authorities
+f6d0be46-983d-4686-80bb-6fd42bb65c08,Kari Olson,Individual,Low,2020-01-11,UN
+0efda1ad-1027-4af6-bc56-f726a5ee0063,Sarah Frost,Organization,Low,2022-06-19,UN
+ed95e92f-0a1c-4b36-aaf8-83634e3364fb,Mr. Nicholas Maldonado,Organization,High,2023-02-07,UN
+7252cab4-43a1-4945-a00b-a1a6fc7c1bc5,Anderson-Kelly,Individual,Low,2021-01-03,OFAC
+9105acf7-856f-44be-85a4-0ddff8c7ab7b,Collins Ltd,Organization,Low,2021-02-22,OFAC
+7154d75f-4c1a-4a5f-b278-dd60513d1461,Blake Inc,Organization,Medium,2021-10-27,UN
+8e1320ab-a57b-4e2c-b82d-b9324ac47911,Mack and Sons,Organization,Medium,2023-05-30,OFAC
+b0b2f66c-fcdb-4fd4-8135-1895517872b5,Jonathan Johnson,Individual,Low,2020-03-07,OFAC
+273e5c71-2be7-481a-9886-0c3a9883a316,William Perry,Organization,Low,2022-06-22,OFAC
+b2b5f646-63a2-4a71-9653-ce5ce844bbee,Morton-Brown,Individual,Medium,2020-11-11,OFAC
+0ae13f11-e46b-413d-a9e2-986635509938,"Snyder, Wilson and Richards",Individual,High,2022-04-23,OFAC
+c6ce4d5e-8135-4334-880e-686731175c73,Suzanne Maddox,Individual,High,2020-02-26,Local Authorities
+a60e5641-5161-4f01-aeca-8f998e6c40a4,Sandra Weaver,Individual,High,2021-05-30,EU
+76e1ab0f-b202-46c3-9ec9-760e2745a8d1,Seth Whitehead,Organization,Medium,2022-11-12,OFAC
+353b1fb2-5ae8-4cee-99cd-6de23451a8a5,"Hamilton, Wright and Hernandez",Organization,High,2021-09-29,OFAC
+dfdb0dc1-a684-46a9-95f3-1264f26623bf,Robinson Ltd,Individual,Low,2020-12-10,EU
+0e4159df-dc70-4226-82dd-240166d2cd26,David Diaz,Individual,Low,2023-12-22,UN
+7bf29757-8699-404c-b0c3-0dd316455371,Thomas-Pope,Organization,Low,2021-08-29,UN
+838b811f-ddff-4cca-b4fc-0de3cb25b7ca,"Deleon, Allen and Wilson",Organization,Medium,2020-05-03,Local Authorities
+87f8bfc8-1b14-469d-93f1-ac4dae4e7951,Steele-Chambers,Organization,High,2023-12-25,EU
+5f82dded-f51b-4ae6-b87b-de6739a48c4e,Shawn Weaver,Organization,Medium,2020-04-01,Local Authorities
+ea56afaa-6da3-4fef-a71d-3ede3f905b20,Hannah Santiago,Organization,Low,2023-05-09,OFAC
+1e903336-fdc1-4190-b49e-42f3b4666904,Christopher Novak,Organization,Medium,2021-06-12,UN
+97ac5d01-8ab1-4ee8-a7f4-948b54518c9d,Herrera-Norris,Individual,Medium,2021-09-05,EU
+5e3ccdb2-f3f3-4ae8-a142-2b2f3f2df13d,Gordon-Gordon,Individual,Low,2024-05-07,EU
+27287416-d755-4749-9286-335becd986f1,"Garcia, Lawson and Anderson",Organization,Low,2022-10-11,EU
+07a318a8-0097-4854-8f01-a69a6a157cf5,"Jackson, Olson and Sanchez",Individual,Low,2022-02-24,OFAC
+9c0f9c6f-4588-4131-9474-5fdfc1494947,Jones-Snow,Individual,High,2022-06-01,EU
+807a23aa-e62c-4db9-bf8d-1b6f06dafbe2,Miller LLC,Individual,High,2020-01-01,UN
+b698c966-0344-42f4-81b0-a136811d88b7,Debra Garcia,Organization,High,2021-01-15,UN
+d30c4c9f-8d73-455b-9a8a-67f255a38be0,Allison Williams,Individual,Medium,2022-08-03,OFAC
+779656f5-2abf-42c9-9b04-5f060936561d,Bradley Evans,Organization,Low,2021-03-27,OFAC
+f9a665d4-c12f-4457-9ea6-d657a32a0394,Navarro-Booth,Individual,Low,2022-12-17,Local Authorities
+ef8155a7-c1b8-424c-9d85-10ae2b0464db,"Lewis, Brown and Perez",Organization,Medium,2022-07-30,OFAC
+2faa2ce7-b8a7-4ffa-8fff-68c8ae9cf8f7,Austin Mcgrath,Individual,Medium,2024-04-16,UN
+c9fc70da-0190-4c34-93ff-7339c5cc1e6a,Joel Mcpherson,Organization,Low,2020-10-20,OFAC
+5f1fad09-1f09-4804-9cdf-60ee94d8a948,Rivera-Craig,Individual,Low,2022-12-27,UN
+6b2f2390-e171-4825-a872-08655a5958c6,Melissa Jackson,Organization,Medium,2021-11-23,Local Authorities
+96d17061-6835-416e-9309-94b7507a40d8,Daniels LLC,Organization,High,2020-06-02,EU
+d2e9436c-5f59-404d-9b6a-9f295fbe9eab,Gene Khan,Organization,Low,2022-01-07,UN
+b6765758-ae3a-4861-bc76-9626fd95cd6b,Nicholas Chung,Organization,Low,2021-06-07,Local Authorities
+0128b2b5-ef5f-45b3-931d-c6a8981d9939,Hurley PLC,Individual,Low,2021-01-05,Local Authorities
+c716b6ca-13e5-4b89-ae7a-c268ee366c31,Key Group,Organization,Medium,2021-07-24,Local Authorities
+ba62984e-3072-466e-a5f4-205bf73d14f3,Evans-Hansen,Individual,High,2024-02-12,Local Authorities
+1a228d08-b2c9-40f5-9f4a-3a0163c33f29,Amy Green,Individual,High,2020-10-16,UN
+8e302bfa-8d49-4500-b0ce-9d215c6b9362,Baker-Donovan,Individual,Medium,2021-09-22,EU
+3db7d3f5-2c1e-4c72-88cf-fedb81c5b935,Dustin Hansen,Organization,High,2021-06-22,OFAC
+1c301fe5-9ea0-4346-8001-109a7828fe01,Shelby Rocha,Organization,Low,2024-04-06,OFAC
+5a328ef4-6e8f-4f74-901d-cf17111820ec,Mayo LLC,Individual,Medium,2020-04-25,EU
+d1abab40-e866-42fc-be46-5c72ff5885b1,Hopkins Ltd,Organization,Low,2020-05-01,OFAC
+46ced63a-03f7-4c12-883a-902ea52afea5,Emily Henry,Organization,Medium,2023-12-30,OFAC
+5de58404-cf2e-4b03-bc53-34f82c21938d,Johnson Group,Individual,Medium,2021-05-15,UN
+8c9478bd-b54d-42ef-9628-e3e76b2456ed,Joseph Waters,Individual,High,2023-05-08,OFAC
+f35fd824-afdf-4554-a374-8c17d4808368,Samuel Anderson,Organization,Low,2021-01-10,Local Authorities
+b5802f0f-be5d-4ace-8886-15a1a109dcdf,Angela Miller,Individual,Medium,2023-03-17,EU
+c0764297-9de2-4911-9d2e-6058aab6a571,Moore-Wang,Individual,Medium,2023-07-10,OFAC
+eb12670f-d650-4a40-bf91-7eda3ff883d9,Nancy Lynch,Organization,Low,2023-11-11,Local Authorities
+f8ac109d-fc2f-483b-b52e-f404888a546c,Taylor-Casey,Individual,Medium,2020-12-08,OFAC
+6ec50108-5ec8-44ec-a8d8-38ec6cec250e,Campos-Harris,Organization,High,2020-11-18,EU
+77b53d89-56d4-4f40-8a5a-9fa7835ed364,Brown and Sons,Individual,High,2023-11-03,OFAC
+23c8fa8c-ea53-4195-8026-e06cfa3e3c4e,Cox Ltd,Individual,Medium,2020-07-25,UN
+940470bc-9f85-464c-b665-d0f79089a793,Williams-Keller,Organization,Low,2021-07-26,OFAC
+68e158e7-5ab8-4f2b-b0f3-e40b1511f44e,Stewart Ltd,Organization,Low,2023-05-29,UN
+1f206d25-267b-4795-a93a-34982554574f,Carson-Fleming,Individual,High,2023-07-09,UN
+cb163c2c-20dc-444d-a613-4860639be4c9,"Thomas, Hebert and Bell",Individual,Medium,2021-06-15,EU
+bd0297fc-225b-4c45-ba4f-187d6cc7d980,Charles Campbell,Organization,High,2023-05-16,OFAC
+4c866da3-f6c5-46fb-b613-017e011c9203,Leslie Rivera,Organization,Low,2020-01-20,Local Authorities
+95377913-1481-4599-94ed-a486f4e949c8,Donna Aguirre,Organization,High,2024-06-14,UN
+a8ded3ca-96aa-4919-81bb-5d6afd1e91e7,Donald Reyes,Individual,Medium,2022-01-03,Local Authorities
+3e8406e7-3364-40dc-97bd-7c1040f8af6f,Barbara Taylor,Organization,High,2022-06-13,OFAC
+774621d8-a44e-4ab7-9166-f772035deb23,Eric Lucas,Individual,Low,2022-12-18,EU
+0c85cf1d-9151-40a4-95bc-fd9ba331f06c,Janice Williams,Organization,Medium,2020-05-04,OFAC
+d05306da-0193-4196-8543-334f3cb336f2,Laura Mcintyre,Individual,Low,2021-10-01,OFAC
+404745a2-d86e-4c67-b7d9-cad647fe518b,Tom Lawrence,Individual,Medium,2022-08-23,EU
+e9f5db32-3342-464c-94d1-76d8ab0c722b,"Cruz, Butler and Peterson",Individual,High,2021-12-05,Local Authorities
+4fe53cb3-a779-4573-b229-3892a513a00b,Johnson Group,Individual,Medium,2024-06-20,Local Authorities
+0d47d9a3-f2aa-4ae9-b7d6-846b7d975b32,Johnson-Brown,Organization,Low,2024-02-06,OFAC
+32d43746-f76a-4daf-8929-e1379d908a8a,Heather Walton,Individual,Low,2021-07-26,OFAC
+c81608ea-144b-4106-8c0f-223c50e29817,Sweeney-Smith,Individual,Medium,2020-02-21,UN
+6192f324-2744-41f9-bd0f-042bd1dc2067,Barajas-Martinez,Organization,Medium,2023-07-13,Local Authorities
+df2ee6ba-f136-418c-970b-b0e9ea7a0d26,Crane-Sweeney,Individual,Low,2022-06-23,Local Authorities
+f3b5acd0-c4de-42c8-86d7-7dc6ba5f513b,Ricky Myers,Organization,Low,2024-08-06,UN
+a18e1e53-2ec1-4113-ad62-d21d0e48abc7,Katherine Cook,Individual,Low,2021-06-07,OFAC
+81c0f6bd-6310-44b9-a440-27d4ca02a458,Scott Thompson,Organization,Low,2021-10-03,EU
+f88cd36b-d25e-4266-947c-0cb595e2c87a,"Mata, Cabrera and Spence",Organization,High,2021-11-22,EU
+60ec41d2-6975-4b12-a310-79243f1712cc,"Jackson, Walker and Bird",Individual,Low,2020-09-01,Local Authorities
+775bf88a-32e4-4435-baa7-7851ff2bc2a9,Sanchez-Morgan,Individual,Low,2022-01-24,EU
+fe23794b-c2d0-4bc6-a83e-edcb2b1aa6f9,"Taylor, Russell and Sexton",Organization,Low,2024-04-21,OFAC
+34bf3a89-28e7-4a8f-879f-3e79c639e7f1,"Bartlett, Fox and Ferguson",Organization,Low,2023-05-10,Local Authorities
+83aa6ef2-f037-4460-a997-4ad75d84313e,Potter-Warren,Individual,Low,2021-07-02,EU
+02d72d0e-668d-43f5-a367-95ab8c5e724c,"Dunlap, Brown and Espinoza",Organization,Medium,2023-04-03,EU
+da6f4139-24ac-44ba-8c92-b28d2afadb0d,Laura Castro,Organization,Medium,2024-05-26,UN
+31b63046-d1ac-44f4-b789-1fb3d6d04df3,Jensen PLC,Individual,Low,2021-08-11,Local Authorities
+641dc7c8-ac53-4fe3-b6be-3407e177688c,Thomas-Lynn,Individual,High,2024-03-28,Local Authorities
+86c5659e-9049-4049-9ebf-53e351507250,Cochran PLC,Organization,Low,2020-07-18,EU
+90c0a06b-630f-4005-b982-2ba6906739db,Jennifer Walters,Organization,Medium,2023-09-24,Local Authorities
+d60abb8f-99f5-4e19-bc7d-4530963af7c9,"Roach, Martinez and Schultz",Organization,Low,2023-08-13,OFAC
+09a76896-4df8-4bf8-9253-fda8c1219efe,"Nash, Johnson and Smith",Individual,High,2021-03-19,EU
+bb124820-4584-4fc9-b564-6be3a40c3023,Shelia Hicks,Organization,Medium,2020-03-13,OFAC
+131859cd-65f9-4cbd-ad74-e058bc0838ec,Jessica Jones,Organization,High,2023-07-06,OFAC
+e0cd38bf-afe2-4cba-b611-27e0a08073ae,Nathan Perez,Individual,Medium,2023-02-18,Local Authorities
+0e77df80-8689-4163-97a3-18312e90047b,Hogan-Pacheco,Individual,Medium,2021-10-13,UN
+a569501e-d5cd-446d-8ef6-afa585b4387e,Rodriguez and Sons,Organization,High,2020-04-04,UN
+c8389fdc-43a2-4c50-8920-767012813f57,Reynolds LLC,Individual,High,2021-07-01,EU
+c07947e2-290f-4fc3-a35d-28600c709431,Stacie Black,Organization,Low,2023-09-22,EU
+a0410edb-580b-4adf-b621-167a8b1b7396,Frank Clark,Organization,Low,2021-01-06,OFAC
+0f41ce12-e805-4105-867f-1ab311faca9c,Taylor Thompson,Individual,Medium,2021-05-17,EU
+fddbb659-737e-4367-8954-2d66eb2bc407,Natalie Bradley,Individual,Medium,2020-02-10,UN
+d7d8769a-cf12-41b6-bf6e-d3fe31f37611,Hall PLC,Individual,Medium,2020-08-13,Local Authorities
+0846a285-d0d2-4ea0-8684-7d4f6a4ad236,Johnson-Roberts,Organization,Low,2024-02-27,Local Authorities
+3e58f0ed-09c9-45d5-b91a-d205fc4e726a,"Patel, Gonzalez and Mccall",Organization,High,2021-02-15,OFAC
+3387355a-28bc-49b4-a61a-8f1826e0406f,Valenzuela-Koch,Individual,Low,2020-12-02,EU
+8a2c7e46-68a3-467d-bf04-ad4c53a44b03,"Wood, White and Kelly",Individual,Medium,2023-06-01,OFAC
+b7a38286-3669-44e6-b530-e8725685a82b,Thomas Group,Individual,High,2023-06-27,UN
+8fa1d8fd-7e86-4114-83b1-ef925005b0ee,"Barnett, Johnson and Wilson",Organization,High,2020-03-14,OFAC
+896cd246-5aed-41e5-8689-c7291342ef70,Jonathan Brandt,Organization,High,2022-06-20,UN
+c570a7cb-f609-4790-b5a8-e7170ebd1856,Best and Sons,Organization,Low,2024-05-15,Local Authorities
+9b276aa5-9336-478c-a25f-e1f783b685e7,"Jordan, Cooper and Jones",Individual,High,2023-02-04,OFAC
+5958df33-46d1-4566-aac3-2cb5ded8947b,Lisa Rose,Organization,Medium,2023-07-05,OFAC
+acff2970-2bf3-4f1b-bc7a-4ffbc6e2a618,Christopher Lee,Individual,Low,2020-07-28,UN
+3a0c59a3-4d72-434a-aaf3-e2bb0504579e,"Stanley, Garcia and Guzman",Organization,Medium,2021-09-03,Local Authorities
+1092cd61-b49e-4395-9105-9fee8c39344e,James Wheeler,Organization,High,2023-01-01,EU
+834ce85f-6594-4bc3-9d79-be46036049a0,Smith Group,Organization,Medium,2023-12-19,UN
+10ebb796-6727-41c3-8ab4-54cfa36b2b57,Andrew Hale,Individual,Low,2024-06-23,EU
+32a5d91b-d1f3-4681-a9a1-0155a5435b21,"Nelson, Mendoza and Moran",Individual,Low,2020-07-19,OFAC
+0bf99940-1335-4d69-baf9-c3420b4e6f0e,Bolton-Evans,Individual,Medium,2021-06-18,UN
+6a5870d4-290b-4027-86ab-f3f06c15a68c,Brock Inc,Individual,Low,2022-08-22,UN
+7d037c3d-8568-4513-96ad-10cf4f7649f4,Lori Hughes,Organization,Low,2020-05-12,Local Authorities
+67693bfd-d3e3-4eaa-b228-72aed986b427,"Peterson, Parrish and Calderon",Individual,High,2020-09-20,EU
+4dec76e2-6455-441f-847f-9d3c288573b4,Beck LLC,Individual,Low,2020-03-24,Local Authorities
+7051dc50-451c-48ae-a069-e011ad657c39,Jack Hall,Individual,High,2023-02-17,OFAC
+30adaa40-c923-454b-9747-296d77a49370,Preston-Baker,Organization,High,2023-05-04,UN
+32e47df2-0af0-44f4-8a65-0c3f5cc9dde5,Morrow and Sons,Organization,High,2022-03-09,OFAC
+82c9ffdb-b028-4993-97cf-8e6bb3df8b19,"Powers, Hill and Myers",Organization,Medium,2023-12-02,Local Authorities
+90c7073a-ea8f-4828-8080-05338b3bfeff,Susan Knight,Organization,Low,2021-11-26,OFAC
+4842c59a-560e-45b9-8159-643f4aae5c22,"Smith, Wagner and Knapp",Organization,Medium,2021-12-06,OFAC
+16472868-981e-4e0d-b5e4-e71707bbec1f,Sarah Jones,Organization,Low,2022-04-05,OFAC
+6dcc9161-ba64-4df7-b95a-d80b513a5b6f,Wright-Potter,Organization,High,2020-10-28,EU
+6bbc9c57-f55b-4987-8b88-7a2a49e763b2,Martha Williams,Individual,High,2023-09-04,Local Authorities
+c034fdb0-63e7-49d1-83e3-2823a62b7880,Todd-Brock,Individual,Medium,2021-12-10,OFAC
+852760fa-b4c1-4c9a-abd6-9e6ca2b28f2d,Hahn PLC,Organization,Medium,2020-07-03,EU
+bc13ce7a-5cb4-42d4-8fab-fdb5b728b6a3,Alan Carter,Individual,High,2022-08-06,EU
+10c39d6c-7b4e-4638-858c-619aec9805ef,Julie Shaw,Individual,Medium,2022-01-25,EU
+e3d599fc-4212-4044-bdf7-e76a286511e2,John Gaines,Individual,Medium,2020-08-18,EU
+b05b1fee-3846-41a8-9d9e-0d37996bda89,"Washington, Smith and Schroeder",Organization,High,2024-07-11,EU
+f4d4509c-1a81-43d0-9398-71fd423c0ffe,Kathryn Clark,Organization,High,2024-06-24,UN
+c5648baa-6aac-4780-adcf-0d01e8396cd4,"Lopez, Garcia and Maxwell",Organization,High,2024-06-01,UN
+b749714a-4d28-4f99-ba0f-37298e5df269,Connie Armstrong,Individual,Low,2021-04-20,Local Authorities
+eb4d25a8-b2fb-4f48-8a3b-d23b91ff1c99,Kimberly Conner,Organization,Medium,2023-06-30,Local Authorities
+85d9c99f-ce7d-4b49-910e-93a358ca2830,Darrell Miller,Organization,Low,2024-01-29,UN
+20898cc9-bd6c-4939-a6b5-48b21eb4979a,Jim Ford,Organization,High,2023-11-06,Local Authorities
+d7af3fb1-7d4c-42f4-9c17-2296b3d07103,"Weber, Jones and Reed",Individual,High,2021-08-29,OFAC
+7725ddf8-aa5c-45a7-94c4-acd608d30b40,Michael Morrison,Organization,High,2024-02-29,OFAC
+cd67f637-9730-47b9-bc50-d08ad2ec239a,Morales-Cox,Organization,High,2023-05-03,OFAC
+d5840304-6822-4cc8-b2dc-9d26141e9b14,Gross-Powell,Individual,High,2022-11-27,UN
+154e6a97-b475-4b81-9b0f-211c7298c449,Danielle Gutierrez,Organization,Medium,2020-03-24,Local Authorities
+d32bd0fc-a634-44cf-be47-437c5cd0767d,Lambert Inc,Organization,Low,2020-11-03,Local Authorities
+a927494c-55e3-4bcf-a77c-f5bd4f18405a,"Bishop, Brown and Anderson",Individual,Medium,2024-05-17,OFAC
+e1018634-981a-4f83-bdae-da2735a3e0fc,Watson Group,Individual,Low,2022-10-23,EU
+e1b273bc-9ce3-4b4e-86c0-a9904a19523c,Johnson Ltd,Individual,High,2024-04-05,UN
+bc23a397-6af8-436c-983f-358842fe3587,Michael Sharp,Individual,High,2022-10-26,OFAC
+94dda210-26fd-4a2f-aef8-5141daf4ae2f,Howe and Sons,Individual,High,2020-05-27,OFAC
+6e5869f0-199f-446e-b166-51bb235a8a30,Brian Hall,Individual,High,2023-10-09,EU
+cb3874b5-d2fe-420f-9fc9-3415ce4613b5,Jones-Martin,Individual,Medium,2023-08-11,EU
+34c81c10-9a3c-435a-8079-b5ce2c6e63e6,Ashley Barrett,Organization,Medium,2024-04-18,OFAC
+ff1a3948-bfb4-4772-99d8-fc83f3de6c6b,Terri Williams,Individual,Medium,2021-02-25,EU
+548b8b21-800e-4b63-a942-54b49c5afa30,Cathy Jacobs,Organization,High,2022-07-22,UN
+49837965-cf3b-43d7-aacd-6dc184e7e89b,Higgins-Flynn,Organization,Low,2022-05-08,EU
+11e4a8ef-0b9b-4b10-86ae-c90ea3c52b9d,John Gray,Organization,Medium,2021-01-26,UN
+ed7d064c-69fe-4c42-ba27-c8a9606e9805,Robert Bailey,Individual,Low,2020-06-29,EU
+b48862ce-7774-4c83-824b-d81e4166230d,Gonzalez-Wheeler,Organization,High,2020-06-19,Local Authorities
+9a30eab3-1b2c-4a52-ae35-d8416ad98b5c,Jessica Velez,Organization,Medium,2023-12-22,UN
+43f95f9c-71fa-4614-b07e-f7f71098e072,Johnson and Sons,Individual,Medium,2023-08-08,UN
+0b7cdf5b-cb6a-40f4-80eb-4254aa93594c,Compton PLC,Individual,High,2023-07-17,Local Authorities
+d88a0879-b327-4f1f-aad3-d2c8dc7b2bd5,Johnson-Gallagher,Individual,High,2021-08-31,UN
+d0369f25-e4bf-41aa-aeed-29866839c138,Davis-Moore,Individual,Low,2020-06-19,OFAC
+0a064fcc-3d73-4e2b-a04a-f1d7af746a05,Young-Church,Organization,Low,2021-05-10,EU
+14528b7d-1bba-4c21-8f4b-5aa4f2bfa245,Hunt-Cohen,Organization,Medium,2021-03-20,OFAC
+1c42473a-f671-4132-8a2f-982e61a04ef2,Daniel Oconnor,Organization,High,2021-04-13,OFAC
+071862d0-dae9-477f-9866-cf285a5d96b2,Peterson and Sons,Organization,Medium,2021-09-25,EU
+ad6e4581-8cff-4c96-8611-87b37e5b61ee,Madison Fitzgerald,Organization,High,2020-09-28,Local Authorities
+873151b2-ad0b-41f5-a7f4-45a3abd484a5,Daryl Wilson,Organization,Low,2022-03-26,Local Authorities
+fe76e54b-8e45-4f97-bad3-8ef7fdabc86a,Osborne and Sons,Individual,Medium,2021-12-12,Local Authorities
+4617a7da-3028-40a7-bffd-5e061c48a1a5,Marvin Smith,Organization,Low,2023-07-21,UN
+9f2f7e33-9954-4b66-9c7c-0eb633cbeace,Butler Inc,Individual,Medium,2024-05-11,UN
+1bd9dea0-1207-4cb0-8cc0-899d16ddce84,Jimenez-Baker,Individual,High,2023-06-25,OFAC
+fd1bc220-bdab-4e70-b4ac-2d331086db84,Camacho-Herrera,Organization,Low,2021-10-20,OFAC
+a0452659-bbbe-48fd-8fb7-5e504d5777ca,Garrett Fuller,Organization,Medium,2023-08-13,OFAC
+c204ce9f-5ced-4b64-904c-e017e4b5a2cc,"Rivas, Smith and Carrillo",Organization,High,2021-03-06,OFAC
+73d606c5-7e3d-4e40-875b-a3d919c0f65b,Barbara Shelton,Organization,Low,2020-02-14,EU
+80482658-1855-44fe-83cf-8edb1e0bacf7,Madeline Ramos,Individual,Medium,2020-08-12,UN
+b174744b-6c8c-44d9-b4b1-de5f66fd62a7,Roy Reynolds,Individual,Low,2021-11-20,EU
+0ee046c0-78a5-43c5-8b8f-ef15de7965c3,"Johnson, Sherman and Phillips",Organization,High,2020-12-22,UN
+edc51c30-98c5-4d35-b18b-8f007f799367,Deanna Thompson,Individual,High,2024-01-04,Local Authorities
+d997d8a7-d39f-4c6f-8fbd-2f15f94c4599,Anderson-Johnson,Organization,Medium,2020-09-15,UN
+bf04d3bf-322c-42af-bfdd-3f1f5c1ad95a,Davis Group,Organization,High,2022-05-29,EU
+aa320acb-7f32-4386-b162-7b1afbe6f933,Jones Inc,Individual,Medium,2021-06-06,Local Authorities
+6482c496-86b3-4c20-9011-2acdec82dcbd,Ochoa Inc,Individual,Low,2021-06-24,OFAC
+50d2e072-726d-4b76-a354-00bbe5391e01,Thomas Smith,Organization,Medium,2022-06-08,EU
+384a383a-ad13-4804-ad46-f6228fdd1c18,Cochran-Williams,Individual,Medium,2020-11-05,Local Authorities
+5d2f7478-8c76-49ec-98e5-84afb798b6e6,"Salazar, Warren and White",Individual,Medium,2021-09-27,UN
+10531eb3-cede-4207-857e-a1865966b3a5,Morse PLC,Organization,Low,2022-10-18,UN
+7c24c7b0-07d5-4fe2-aced-51fab906c616,Renee Whitaker,Organization,High,2022-12-13,EU
+b268cc8e-fe53-4734-b35f-6d1237b0a432,Petty Group,Individual,High,2022-12-22,Local Authorities
+100da922-6aaf-4b55-afec-465af4167441,Barker Ltd,Individual,Low,2023-12-08,OFAC
+a5766258-d58e-4ade-84b2-3ede454b4ea7,Gordon Group,Organization,Medium,2022-07-06,OFAC
+d45a1596-65cd-4e52-8199-b8c284c79598,Hill-Sandoval,Individual,High,2024-03-16,EU
+90bec9a5-4d9e-4be9-b0b1-b109e13b64c5,Jennifer Sanchez,Organization,High,2020-03-22,OFAC
+428bbf2d-a0e0-4d81-a8f7-b9f3437e3ea4,Perry Group,Individual,Medium,2024-07-12,Local Authorities
+6b8a68b0-ace4-43d6-a301-0e6014f4a998,Robin Gamble,Individual,Medium,2021-03-15,UN
+b5078aa1-5890-4efa-9fa4-0009cc3016ec,Kenneth Melton,Individual,Medium,2024-03-10,UN
+5d41726b-93b5-400a-9fc5-4a8d06cfb45d,Nicole Kelly,Organization,Medium,2023-06-08,UN
+237e0f6f-38fc-4a8c-af6b-6963c68ab41f,James-Davis,Organization,High,2020-11-07,UN
+3111fdc7-c32f-49d0-ab6e-914216ee7dc3,Johnson Inc,Organization,Medium,2021-03-24,EU
+b2232e23-d9f3-4a2a-b9ed-fa857f3811b9,Richard Foster,Organization,Low,2024-01-01,OFAC
+eebe024c-7350-4309-94a3-c757306152e3,Emily Smith,Organization,High,2021-05-27,OFAC
+fa8ea538-dadb-44b4-aeef-28a98831868c,Morris LLC,Individual,Medium,2023-03-12,Local Authorities
+631005f2-b50e-4479-ac03-fe61c8523fa9,Rhonda Gaines,Organization,Low,2020-11-24,Local Authorities
+7a17373b-7823-4bfd-85bc-1c7b1401726c,Lee PLC,Individual,Medium,2022-02-16,UN
+96129e13-602c-48f0-a9cb-63be5d52b3a2,Jones-Hernandez,Organization,High,2023-10-25,EU
+040db7a7-1b16-4fcc-af57-18330d3966d8,Dan Ayala,Organization,Low,2024-01-22,UN
+77998d76-ea38-4c09-aa06-e6c062b63e27,Smith Ltd,Organization,Medium,2020-07-18,Local Authorities
+e4440c49-3664-4e1a-bf1e-16180ee71953,"Holmes, Torres and Peterson",Organization,Low,2021-04-19,UN
+db8e40a5-06e9-4def-a62f-edc4d74383b7,Samuel Knight,Individual,High,2024-03-05,UN
+f757e157-d38b-4d71-9a07-6de1eacc4afd,Amanda Berg,Organization,Low,2020-03-15,EU
+44e3d97e-22b6-4fb9-89d0-b6b89346818c,Richard Martin,Organization,Medium,2022-06-30,EU
+3bc9f158-5e82-4ee8-a7cc-c424be6dc94d,Meza LLC,Individual,Medium,2020-07-06,OFAC
+b5c8c48e-3f98-461e-8a4b-26db9e5b81a2,"Powell, Wilson and Richardson",Individual,High,2023-10-12,UN
+281eeb55-025d-4f66-a118-298dbda49fc7,"Mcmillan, Tucker and Romero",Individual,Medium,2020-04-24,UN
+e75ba868-1fb5-4115-be4c-650eebd8e6e5,Melissa Brown,Individual,Low,2020-04-24,Local Authorities
+648311b5-7da6-4a80-b04b-113791cf1d24,Green-Barry,Individual,High,2021-06-27,UN
+02f86c38-81eb-4006-b699-f5c1e66b2a1b,"Perry, Ramirez and Brady",Organization,Medium,2021-11-18,EU
+2b7aeed2-dae5-4f01-9c08-614757321f2a,"Sanchez, Baker and Henderson",Individual,Medium,2021-09-11,UN
+ed1a99cb-f594-408d-8636-165817c5b106,Joseph Hayes,Organization,High,2021-02-17,UN
+6a2d06e7-d880-4627-b121-0bb08c9ff830,Kevin Davis DDS,Organization,Low,2021-10-10,EU
+4dd2662f-1e92-417a-9dc3-1645ff87a25b,Vasquez LLC,Organization,Low,2024-04-16,OFAC
+85add70b-c115-4f4c-b8b5-b95db4726eb7,Velasquez Inc,Individual,Medium,2021-11-05,Local Authorities
+fb1c18fa-7878-49b4-8d68-7f90fd9028ef,"Allen, Prince and James",Organization,High,2021-09-02,Local Authorities
+3ba57295-4a0b-41f0-821d-d080b598b3ba,Galloway-Sullivan,Organization,Low,2022-07-20,UN
+b8d1e68c-8b2e-41fe-9b4d-fba6469e5ea8,"Turner, Russell and Davis",Individual,High,2022-01-16,EU
+649f3117-0237-45f3-a4c7-81e2edc7ce93,Barber Inc,Individual,Medium,2021-11-08,Local Authorities
+42af5783-d710-42d0-9023-7ac8167abaf3,Nolan PLC,Individual,High,2021-12-24,Local Authorities
+e7d7e59f-c368-47be-a4eb-e20c48308607,Ryan Marks,Organization,Medium,2021-07-31,OFAC
+af09a6a3-a7f6-487e-ad3b-7c0f6ea17a96,Shaun Bennett,Organization,High,2023-03-31,Local Authorities
+42ac1550-be50-4b1c-8989-5efa5ef5da54,Sullivan and Sons,Individual,Medium,2023-05-29,OFAC
+3d6f9339-6318-4c67-af23-5600aa27f012,Samuel Spence,Individual,Low,2024-02-24,Local Authorities
+4bf37cc6-ed50-4685-be2b-b557613b5a47,Johnson-Hinton,Individual,High,2021-03-18,EU
+9afdda4a-3049-4666-b643-559d22ab2bb5,Christina Flores,Individual,High,2023-12-24,Local Authorities
+9debe2b8-2e82-4d68-a33a-39705a7c4bc8,James Padilla,Organization,Low,2022-08-22,EU
+6dd11c1c-21de-4ec7-a505-450202e809e9,Jason Herrera,Individual,Low,2021-11-13,Local Authorities
+1c50772c-477f-40b2-be1f-51cdc15c458d,Taylor-May,Organization,Low,2023-07-09,UN
+9004400e-7752-4cbf-a02d-aa3378559458,Case LLC,Individual,High,2021-04-28,OFAC
+f35a0d52-96b6-476a-b0be-d68cb41738b8,Watkins Ltd,Individual,Medium,2022-01-26,EU
+68b3a80b-c506-47d3-a63c-fa24ecfc9f0e,Marshall Ltd,Organization,Medium,2020-04-23,OFAC
+88fe66f5-4739-484b-9041-e00934678d2f,Shaun Elliott,Individual,High,2024-01-05,OFAC
+326d2ae1-b056-4723-b307-49985ff48f46,Jennings LLC,Organization,Medium,2024-04-19,UN
+ae795f59-ff35-49a8-baa4-e56e3f263dec,Kimberly Reid,Individual,Low,2022-03-23,EU
+662fce55-1a77-442e-b9db-5cd22d20346c,Gregory Tyler,Individual,Low,2023-05-13,EU
+7a40b108-8c5a-4d9e-86f8-7ceaee37962f,"Sanchez, Lopez and Olson",Individual,Low,2022-02-12,UN
+6c1c61ae-4eae-42ee-abe6-e0642b852378,Singh-Fowler,Organization,Low,2020-06-07,EU
+ce4a04df-fb8e-4876-9e5c-7b0041469658,Robert Mckinney,Individual,Medium,2022-01-27,EU
+2478c453-6aa2-4f0b-aea8-511839ed86d1,Brown-Robbins,Organization,High,2020-08-21,OFAC
+8faff8fb-dab8-47c6-8f83-fce046781613,Whitney Shelton,Organization,Low,2020-03-08,EU
+118b0d76-0e3f-4963-bbd4-69a4908340e8,York and Sons,Individual,Low,2023-01-02,OFAC
+5d8f96b0-f5c4-49fe-8862-10eb582b9fd7,Troy Diaz,Organization,Medium,2023-04-13,OFAC
+97d5f958-eded-4402-8a98-5b5d6fd190f7,Wood-Dickson,Organization,High,2023-07-28,OFAC
+ff86b72c-55e1-4334-b481-1fd06ca7b8c6,Colleen Martin,Organization,High,2020-08-05,Local Authorities
+b3fe463d-4736-4ae1-9610-aa918f54485a,Walton-Garcia,Individual,Medium,2024-04-27,Local Authorities
+01bbc01e-9ecb-45e8-a260-ad5b28ef5b4a,Terry-Thomas,Organization,Medium,2021-11-30,OFAC
+26c15d0a-a11d-4c21-8a19-1a8e9c3ac9e4,"Myers, Smith and Flores",Individual,Low,2022-05-18,Local Authorities
+128f0793-8043-4871-bcdb-0c96b9fa488e,Brandon Grant,Organization,High,2022-01-29,EU
+9bccc140-42f4-4758-9fa6-aa8593498206,Jose Abbott,Organization,Low,2020-05-28,Local Authorities
+bd1e64a7-7068-4c6f-8c6e-47520642eb5c,Petersen-Nunez,Organization,Low,2020-01-19,OFAC
+0625f62a-70f9-49e3-9b87-fccd4705bdeb,"Ballard, Carr and Ramirez",Individual,Medium,2024-05-31,OFAC
+b3ee7bdb-aed5-4919-9f5a-b01504f0f6af,Black-Campbell,Individual,Low,2022-02-09,EU
+2bfff786-1f3c-46b3-bff1-ca405f9a86d4,Amber Wells,Individual,High,2020-11-05,EU
+5cdd8e07-861d-41a5-affb-9d93979ff5a8,Harry Morgan,Individual,High,2022-09-13,EU
+b39c853f-c641-469e-95bb-3436ee67c2d6,David Brewer,Individual,Medium,2020-05-09,Local Authorities
+3fd28a6b-d4ed-4ad0-a376-182328d5829e,Jarvis PLC,Organization,High,2023-07-04,EU
+d7e4fd45-9e7a-40a8-abd6-860f4101b0ad,"Mccullough, Garrett and Ramirez",Individual,High,2024-01-17,OFAC
+e20fa86c-5c5a-44cd-b3b7-6524307e4659,Leon Inc,Individual,Low,2020-08-24,Local Authorities
+df3ed7df-571c-4f11-bed7-6863b99e9506,Glover PLC,Individual,Medium,2022-01-08,Local Authorities
+1a5c2a7d-8348-43e8-aada-67ae4e5db229,Thornton Group,Organization,High,2021-06-08,UN
+0fb4d6de-d15b-47d3-86c7-a3cf5ee957e8,Brown PLC,Individual,Low,2021-07-02,OFAC
+c52187c1-6983-4e35-9870-43fba5cf4353,Lopez-Taylor,Organization,Low,2023-01-21,UN
+29658285-8e1a-4147-849f-829b0b39e14e,Lee-Warner,Organization,Low,2024-03-19,UN
+26d794b8-4d2f-423d-b543-1f4b3269c26f,"Foster, Simmons and Luna",Individual,Low,2021-07-29,EU
+2178ce56-100b-4dc1-b51a-0060f57956a2,Shawn Mason,Organization,Medium,2024-03-14,UN
+28b79a5b-4f0b-4f6c-98de-ed5e1edf4434,Edwards and Sons,Individual,High,2022-01-30,Local Authorities
+4b9dc938-e61a-4d8d-b447-bd21f62eb358,Macias-Welch,Individual,Medium,2021-10-02,EU
+2cb71379-7429-480d-a894-aab3d6375036,Megan White,Organization,Medium,2024-04-28,OFAC
+def88bdf-2346-4d70-8883-281f971ac113,Mullins Inc,Organization,Low,2024-06-06,Local Authorities
+f7e476df-2c66-47b2-b23e-2079d080e1af,Eric Nelson,Organization,Low,2020-02-26,UN
+fe81013d-e873-4b87-868b-6f7b9d960b1c,"Wells, Romero and Cooper",Organization,Low,2020-10-09,EU
+e075bbea-dd33-4aea-92a1-ab2876f30dd3,Weber-Fernandez,Organization,Medium,2021-04-10,EU
+9e845f8a-ee8f-43c0-9090-b15b26590863,Robinson-Manning,Organization,Medium,2023-10-10,UN
+8b9c4230-6338-4a34-901e-4dba9bc44c7e,Kelsey Gallagher,Organization,High,2022-06-19,Local Authorities
+d75c751b-ce51-4cad-98eb-55360d572c90,Miles-Sanford,Individual,Medium,2020-06-18,UN
+7f0b3f36-bbed-43cb-a191-58686fc48239,Roberson Ltd,Individual,Low,2022-05-21,EU
+e774349b-3600-4cfb-a1e0-73fc0ccf322d,Taylor-Stark,Organization,High,2020-03-18,UN
+b9cb43a2-74ff-4a7e-add9-1aea3dbf7417,"Cook, Stokes and Foster",Organization,Low,2023-12-20,EU
+9178172e-a79b-4d63-95eb-09fb6a6f623c,"Wang, Bryant and Lara",Organization,Low,2023-12-15,OFAC
+e1b587e8-3d9c-46f5-8485-f4066b4c9900,Patricia Stafford,Individual,Medium,2021-03-03,EU
+c687f450-9c21-430a-824d-df17a3e28de4,Douglas Hanson,Individual,High,2023-10-25,Local Authorities
+202e978f-66da-4596-822a-3616ce231d8e,Williams and Sons,Organization,Low,2021-08-18,OFAC
+9be539e2-588b-4746-af32-d57e3eb201d4,Christopher Jackson,Organization,Low,2022-10-02,Local Authorities
+f60d56d3-3954-411c-a8f1-778e9089a858,Jenny Kirk,Organization,Medium,2020-01-24,Local Authorities
+c78a8e05-c1f5-4e53-970f-f961dfc33114,Erika Cervantes,Individual,Low,2023-12-20,Local Authorities
+0ffc1d22-f3ad-4fff-a916-f802850699a3,Amanda Blackwell,Organization,Medium,2023-03-26,Local Authorities
+c5c43e82-ca58-421b-a9a7-4477987af77e,Harrison-Norris,Organization,Low,2023-09-05,EU
+79b2acbb-b151-4881-8b16-912b4db088ae,Julie Garcia,Organization,Low,2022-04-10,EU
+3ad48d04-cf2b-4447-9646-29b7dacc636e,Beth Knight,Individual,Low,2021-01-18,OFAC
+c59631fc-ef22-4394-a5be-9f1bc6c0a1b0,Kathryn Myers,Organization,Medium,2022-05-31,OFAC
+08a990c4-8346-478f-b558-dd64296f0adb,York LLC,Individual,High,2023-01-09,EU
+d0463822-2ee5-4aeb-b4ed-7628483782d2,Elliott Ltd,Organization,Medium,2023-07-21,Local Authorities
+d696aeb7-527d-4c01-a7ad-7d5d084ef267,Silva-Wood,Organization,Medium,2022-03-17,Local Authorities
+da83922d-bca6-433e-b125-bf7081dbb30c,Jeffrey Larsen,Organization,High,2023-01-12,UN
+3a1ee966-401d-4164-b8bd-aaab4b31693d,Ramirez LLC,Individual,High,2022-09-21,OFAC
+67f1ff12-dae7-41e6-87f1-e743d62ffbdb,Michelle Barron,Organization,High,2020-05-22,EU
+60993bda-7bdc-45c9-bb8e-81160b160ea2,Harry Kirby,Individual,High,2021-09-27,EU
+e857237c-91b6-4835-bbe2-1e9d41ae9b06,"Roberts, Wagner and Brown",Organization,Medium,2023-09-03,UN
+18466d6c-fa99-45a3-ba92-cf7c4cfa65ec,Bryan Olson,Individual,Low,2020-03-26,EU
+bd1eb3fb-92fe-4f48-a158-34c7418d816b,Michael Ferguson,Individual,Low,2021-04-23,EU
+2df803d4-f484-47aa-ae77-8b61c95e961b,Sarah Shields,Organization,High,2021-02-18,EU
+833298ae-bf04-46d4-8df9-0b662777d49f,Ross and Sons,Individual,Medium,2023-07-14,UN
+1ed417f7-2a98-4ba6-9269-643ba89d70a9,Johnson Inc,Organization,Medium,2021-09-01,EU
+b1899997-ae0b-44c4-b53f-8a349d3745fd,"Chen, Cruz and Anderson",Organization,High,2021-09-25,EU
+ea8ea162-67f5-459d-94e8-d4e8c5f63f46,Long-Williams,Organization,Medium,2023-07-28,Local Authorities
+6d587132-5051-4b7c-b05d-817e33f60254,Russell and Sons,Individual,Medium,2022-04-16,Local Authorities
+6165d5ff-7a0b-4d30-9556-0623dde60c2a,Anderson-Bowman,Individual,High,2023-11-17,EU
+9a3ab1bb-0155-4453-b21c-69b66ab04967,Lopez Group,Individual,Medium,2022-04-11,Local Authorities
+6a5b9c86-ceb8-49dc-af31-b0601a056d0f,Mitchell Cole,Organization,Medium,2020-12-24,UN
+cfea1184-c620-4f2f-aa53-d7344db4b8b8,Nancy Rodriguez,Organization,Medium,2020-09-15,UN
+d098f084-99d0-438f-a0f0-bb5fe6dfdb93,Stephanie Carpenter,Individual,High,2022-04-26,OFAC
+98922805-416d-41c5-9b0e-8302e8f61cc9,"Kelly, Gutierrez and Orr",Organization,Low,2020-07-28,EU
+2596fd1c-4da4-4e7e-8334-e5a07b6d5c0b,Carly Lane,Individual,Low,2024-04-17,UN
+cf284c84-b985-4406-b87e-c8b8e9eff7f0,"Salinas, Chavez and Adams",Organization,Low,2020-09-30,EU
+88c5808b-e616-4e20-ab07-8ad4c8d9d79f,Christopher Porter,Organization,Low,2023-12-21,Local Authorities
+4f3f7e04-883e-41e9-9641-bd4282708c99,Robert Love,Organization,Medium,2020-06-08,EU
+1b094e4d-d10d-4db3-905e-b3915f1f219a,Jonathan Roberts,Individual,High,2022-03-03,Local Authorities
+5e76d15e-1940-4053-a35c-fc8ef7155033,"Freeman, Smith and Bartlett",Individual,Medium,2024-02-06,EU
+5f8d60f1-6072-4fa7-8cbd-f48879a1f68d,Kaitlyn Weeks,Organization,Medium,2023-11-08,EU
+8904b913-5cea-4ccf-8338-6df5acec33fc,Tony Meyer,Individual,High,2020-05-05,UN
+cf4fc680-5699-4e8d-b8b1-c59e5a379758,"Herman, Jones and Sanders",Organization,Medium,2020-08-31,Local Authorities
+bb0dc599-3610-457c-a6d1-bb54bee79599,Terri Perez,Individual,Medium,2020-04-10,EU
+d3011dfd-15e8-4214-bbd3-1c530e04d595,"Nelson, Meyer and Woods",Organization,Low,2023-03-02,OFAC
+ab707d9f-09cc-4b22-8710-8ae0a9ae0aff,"Mann, Michael and Phillips",Organization,Low,2020-07-22,OFAC
+3b1233d6-8924-452c-81cf-3782a1731d31,Sanders-Moreno,Organization,Medium,2023-03-10,OFAC
+78324f9b-b58a-4730-aaff-27af7b9d79ed,Emily Welch,Organization,Low,2020-04-23,OFAC
+130c1c3d-1432-47ca-97b3-61644161e32c,"Martin, Zimmerman and Lyons",Organization,High,2022-02-17,Local Authorities
+328ea376-ffde-4f68-b1b3-9cdc8a432dec,Rebecca Espinoza,Organization,Medium,2020-03-29,EU
+e622a99c-14fb-498f-9691-b0733ca5a03f,"Rivera, Mccullough and Blevins",Individual,High,2021-06-05,OFAC
+379096ac-6ce1-49d6-a0c9-1bcc48b6a22e,Harris-Cox,Organization,High,2021-02-07,UN
+398840d0-9eb8-49c9-a30f-fb72d1d08bc6,Rebecca Cook,Individual,Low,2020-08-20,OFAC
+61537ee5-8da8-4630-a0b2-37b723307bff,Robert Gibson,Individual,High,2024-01-28,OFAC
+c377b970-353f-4193-97e1-79285b51fb6e,Joseph Trujillo,Organization,High,2022-11-27,UN
+9fa83141-c740-4504-9cd0-2154cdc8dcb3,Jackson and Sons,Individual,Low,2021-08-12,EU
+f966d52d-26ba-4329-8b23-575ada1ac733,Adrian Fisher,Organization,Low,2020-11-06,Local Authorities
+fb074545-288d-486a-a4a6-e88c8eb397df,Rodney Hayes,Individual,Low,2021-01-10,Local Authorities
+3e59c003-f24d-45b8-9451-180094c1d5db,David Jackson,Individual,Low,2024-06-08,EU
+60eb87bf-b7d4-4f17-aaef-36853bf6fdf5,Williams Ltd,Individual,Medium,2023-03-27,UN
+ec333a2c-bd4c-444f-8a46-771da21ffc13,Amanda Smith,Individual,High,2023-10-08,OFAC
+48af67a7-63c3-4e6a-bce8-cd584fef01da,Stephen Lozano,Individual,High,2020-02-19,OFAC
+da7eafc5-ec07-4030-98f1-8b093200eec2,Sarah Goodman,Organization,Medium,2020-09-01,Local Authorities
+caa3eac4-4698-4e5c-8c7e-1346b97dd672,"Campbell, Washington and Jones",Individual,Medium,2021-12-21,EU
+00e942ec-1425-4c87-b5c7-b1f0057727c5,Kevin Chandler,Organization,Medium,2023-04-30,UN
+dc074fcf-4471-4168-a816-8790835363e9,Ashley Davis,Organization,Medium,2021-07-24,EU
+e8ad6025-c464-4ab1-b4c5-145841d41073,Drew Navarro,Individual,Medium,2024-05-07,OFAC
+49400fad-37f1-4130-95aa-7bf2c750a12f,Brittany Austin,Organization,Medium,2021-07-01,OFAC
+c4e165b5-bb12-4a3c-95c9-15712fb399dd,George Rice,Organization,Low,2023-12-04,OFAC
+5ad3765f-9b41-47b6-8645-ac2632d1a155,Matthew Simmons,Organization,Low,2022-05-29,EU
+50d16ee7-4b83-4eb0-b0f5-080a7726d9e1,Jeffery Jackson,Organization,Low,2024-02-26,UN
+e0da62e4-6981-4739-bdb9-4edf4a5c3ea9,Kenneth Williams,Organization,High,2021-08-31,Local Authorities
+74608df1-5164-4ed8-ada1-bb4ec8e1899c,"Mclaughlin, Fuller and Nelson",Organization,Low,2022-07-30,Local Authorities
+320a0b62-f32c-4022-97aa-851363af5cdf,Sharon Thornton,Organization,Medium,2023-09-05,UN
+1a473733-48ce-4fda-81b2-c72e0fee1490,Julie Underwood,Organization,Low,2020-08-12,Local Authorities
+f589a18e-a1b4-4a35-8420-dbeffd0a75cc,Timothy Stanley,Organization,Medium,2021-05-19,UN
+eedf8978-4c47-4d56-a025-e068d46e9f00,Keith LLC,Individual,Low,2021-08-27,Local Authorities
+68f60ab6-f7e3-4cf9-86a3-de61d2e2fa98,Tiffany Adams,Individual,High,2024-02-28,Local Authorities
+8407dbcd-faba-4e3f-9a9c-f44747640406,Michelle Wiley,Organization,Medium,2023-08-06,OFAC
+90723473-601e-4303-8c89-9e22c2af78f7,Mrs. Kristie Garcia DVM,Individual,Medium,2024-05-15,EU
+012c6864-28cf-48df-9342-9722716a24c8,Rice-Allen,Organization,Medium,2023-05-30,EU
+a0bad25f-036b-41f0-9a75-3cfd41cf0d87,Brenda Gibson,Individual,Low,2023-12-21,Local Authorities
+27b5ac5c-6ceb-4eee-a232-a1e06260e747,"Carter, Ali and Sanders",Organization,Low,2023-05-05,UN
+ecf05d96-6c5b-43f9-b3ae-9776777de328,Jonathan Smith,Individual,Medium,2020-01-11,OFAC
+5382c0d8-a6e5-4fd3-ab1e-43101a914721,Clinton Pierce,Organization,Low,2022-06-21,OFAC
+e9bbd46e-b3b3-4f77-ad45-6175c2fa940f,Christine Williams,Individual,Medium,2024-04-28,EU
+3f10bc08-05b6-4671-972f-b42ffa171590,John Maddox,Individual,Low,2021-02-09,EU
+fb8b19dc-0d26-4410-b8ac-394d2cb7ba32,Cross and Sons,Organization,Medium,2020-07-20,UN
+368acc1f-1851-446d-9de0-8e1d21a6ca03,"Huynh, Anderson and Thomas",Individual,Low,2020-08-02,Local Authorities
+6720734a-6e2b-4235-84d2-305e2e142a12,Richard Aguilar,Individual,Medium,2023-05-05,Local Authorities
+0cd90249-5ccc-43f5-9cf4-3cd54ba8117d,Brandy Miller,Individual,Medium,2020-09-14,EU
+accdb3d0-e5dd-4fb9-9411-8d610b914718,"Casey, Butler and Hernandez",Individual,High,2023-06-24,EU
+aed3ff29-2e45-43d5-a3be-db0fa2f00a11,David Ford,Individual,Medium,2020-11-14,UN
+136e3321-9948-4457-9abd-e726de70a064,Yolanda Smith,Individual,Medium,2021-12-02,Local Authorities
+26562de1-c06b-4494-ac24-c4d223968a33,"Schmidt, Curtis and Kelly",Organization,High,2023-10-03,UN
+8d71dd67-fb55-47c4-93bf-4be4acf8321d,Miss Stephanie Fuentes,Individual,High,2021-06-28,EU
+9f8f6036-d375-4323-aade-1df0e4ad50ae,"Smith, Neal and Mason",Organization,High,2023-04-15,OFAC
+bdb118a1-7f78-40c5-b305-bedcfbff9f52,Rios-Stephenson,Organization,Medium,2022-08-22,EU
+b57ae603-1b56-4101-b3ca-950729a9549c,Tonya Pruitt,Individual,Medium,2020-11-25,Local Authorities
